@@ -320,84 +320,143 @@
         "linkheading": "Check out our other musculoskeletal pages:",
         "links": [
             {
+                "linkbtn": "",
+                "linkhref": ""
+            }
+        ]
+    },
+    {
+        "blogheading": {
+            "blogTitle": "what-we-treat",
+            "blogSubTitle": "thephysiorehabpractice.co.uk",
+            "addClass": "",
+            "body": "physiotherapy is focused on your biomechanical and structural rehabilitation. With targeted goals to maximise your functional movement so you can return to normal daily activities. This type of therapy is most commonly used to address accidental injuries, sports injuries and resolving physical impairment due to lifestyle and ageing."
+        },
+        "imginfo0": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/background/musculoskeletal-index.png"
+        },
+        "imginfo1": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/replace_me/respiratory-problems1.jpg"
+        },
+        "blogbody": {
+            "paras": [
+                {
+                    "para": "The therapist will focus on the bodies’ main structures of bone, muscle, ligaments and tendons along with the connected systems of the heart, circulation and lungs. Treatment is tailored to the individual based on their initial assessment. Exercise plans and advice are routinely given following treatment and the number of treatments will vary depending on the patient’s progress in recovery."
+                },
+                {
+                    "para": "This can be best treated by treating the cause, which can vary depending on whether you are experiencing bone, muscle, ligament, tendon or joint pain."
+                },
+                {
+                    "para": "If you have been diagnosed by your GP with a specific condition you may find it listed via the link below with details about how physiotherapy can help."
+                },
+                {
+                    "para": "If instead you are suffering from any of the symptoms listed in the below link we may be able to help you following an assessment from one of our experienced physiotherapists."
+                },
+                {
+                    "para": "Our clinics are fully equipped with gym facilities and treatment rooms to allow our experienced therapists to treat all musculoskeletal conditions, with gait analysis and hydrotherapy resources available if required."
+                }
+            ]
+        },
+        "imginfo2": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+        },
+        "blogfooter": {
+            "focus": "0330 088 7800",
+            "footerbody": "For more information on how physiotherapy can help treat any injuries, or to book an appointment, please contact us via email at office@thephysiorehabpractice.co.uk or call us on"
+        },
+        "linkheading": "Check out our all treatments:",
+        "links": [
+            {
                 "linkbtn": "Head",
-                "linkhref": "/musculoskeletal/head"
+                "linkhref": "/what-we-treat/head"
             },
             {
                 "linkbtn": "Neck",
-                "linkhref": "/musculoskeletal/neck"
+                "linkhref": "/what-we-treat/neck"
             },
             {
                 "linkbtn": "Shoulder",
-                "linkhref": "/musculoskeletal/shoulder"
+                "linkhref": "/what-we-treat/shoulder"
             },
             {
                 "linkbtn": "Upper arm",
-                "linkhref": "/musculoskeletal/upperarm"
+                "linkhref": "/what-we-treat/upperarm"
             },
             {
                 "linkbtn": "Elbow",
-                "linkhref": "/musculoskeletal/elbow"
+                "linkhref": "/what-we-treat/elbow"
             },
             {
                 "linkbtn": "Forearm",
-                "linkhref": "/musculoskeletal/forearm"
+                "linkhref": "/what-we-treat/forearm"
             },
             {
                 "linkbtn": "Wrist",
-                "linkhref": "/musculoskeletal/wrist"
+                "linkhref": "/what-we-treat/wrist"
             },
             {
                 "linkbtn": "Hand",
-                "linkhref": "/musculoskeletal/hand"
+                "linkhref": "/what-we-treat/hand"
             },
             {
                 "linkbtn": "Upper back",
-                "linkhref": "/musculoskeletal/upperback"
+                "linkhref": "/what-we-treat/upperback"
             },
             {
                 "linkbtn": "Lower back",
-                "linkhref": "/musculoskeletal/lowerback"
+                "linkhref": "/what-we-treat/lowerback"
             },
             {
                 "linkbtn": "Buttock",
-                "linkhref": "/musculoskeletal/buttock"
+                "linkhref": "/what-we-treat/buttock"
             },
             {
                 "linkbtn": "Chest",
-                "linkhref": "/musculoskeletal/chest"
+                "linkhref": "/what-we-treat/chest"
             },
             {
                 "linkbtn": "Abdominals",
-                "linkhref": "/musculoskeletal/abdominals"
+                "linkhref": "/what-we-treat/abdominals"
             },
             {
                 "linkbtn": "Pelvis",
-                "linkhref": "/musculoskeletal/pelvis"
+                "linkhref": "/what-we-treat/pelvis"
             },
             {
                 "linkbtn": "Hip",
-                "linkhref": "/musculoskeletal/hip"
+                "linkhref": "/what-we-treat/hip"
             },
             {
                 "linkbtn": "Groin",
-                "linkhref": "/musculoskeletal/groin"
+                "linkhref": "/what-we-treat/groin"
             },
             {
                 "linkbtn": "Upper leg",
-                "linkhref": "/musculoskeletal/upperleg"
+                "linkhref": "/what-we-treat/upperleg"
             },
             {
                 "linkbtn": "Lower leg",
-                "linkhref": "/musculoskeletal/lowerleg"
+                "linkhref": "/what-we-treat/lowerleg"
             },
             {
                 "linkbtn": "Ankle",
-                "linkhref": "/musculoskeletal/ankle"
+                "linkhref": "/what-we-treat/ankle"
             },
             {
                 "linkbtn": "Foot",
-                "linkhref": "/musculoskeletal/foot"
+                "linkhref": "/what-we-treat/foot"
             }
         ]
     },
