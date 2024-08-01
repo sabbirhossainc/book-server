@@ -261,5 +261,357 @@
     "deadline": "2023-12-31",
     "id": 7
   }
+],
+  "physioblogs":[
+    {
+        "blogheading": {
+            "blogTitle": "musculoskeletal",
+            "blogSubTitle": "thephysiorehabpractice.co.uk",
+            "addClass": "",
+            "body": "Musculoskeletal physiotherapy is focused on your biomechanical and structural rehabilitation. With targeted goals to maximise your functional movement so you can return to normal daily activities. This type of therapy is most commonly used to address accidental injuries, sports injuries and resolving physical impairment due to lifestyle and ageing."
+        },
+        "imginfo0": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/background/musculoskeletal-index.png"
+        },
+        "imginfo1": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/replace_me/respiratory-problems1.jpg"
+        },
+        "blogbody": {
+            "paras": [
+                {
+                    "para": "The therapist will focus on the bodies’ main structures of bone, muscle, ligaments and tendons along with the connected systems of the heart, circulation and lungs. Treatment is tailored to the individual based on their initial assessment. Exercise plans and advice are routinely given following treatment and the number of treatments will vary depending on the patient’s progress in recovery."
+                },
+                {
+                    "para": "Musculoskeletal pain is often caused by an injury to the bones, joints, muscles, tendons, ligaments or nerves. This can be caused by jerking movements, car accidents, falls, fractures, sprains, dislocations and direct blows to the muscle."
+                },
+                {
+                    "para": "This can be best treated by treating the cause, which can vary depending on whether you are experiencing bone, muscle, ligament, tendon or joint pain."
+                },
+                {
+                    "para": "If you have been diagnosed by your GP with a specific condition you may find it listed via the link below with details about how physiotherapy can help."
+                },
+                {
+                    "para": "If instead you are suffering from any of the symptoms listed in the below link we may be able to help you following an assessment from one of our experienced physiotherapists."
+                },
+                {
+                    "para": "Our clinics are fully equipped with gym facilities and treatment rooms to allow our experienced therapists to treat all musculoskeletal conditions, with gait analysis and hydrotherapy resources available if required."
+                }
+            ]
+        },
+        "imginfo2": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+        },
+        "blogfooter": {
+            "focus": "0330 088 7800",
+            "footerbody": "For more information on how physiotherapy can help treat musculoskeletal injuries, or to book an appointment, please contact us via email at office@thephysiorehabpractice.co.uk or call us on"
+        },
+        "linkheading": "Check out our other musculoskeletal pages:",
+        "links": [
+            {
+                "linkbtn": "Head",
+                "linkhref": "/musculoskeletal/head"
+            },
+            {
+                "linkbtn": "Neck",
+                "linkhref": "/musculoskeletal/neck"
+            },
+            {
+                "linkbtn": "Shoulder",
+                "linkhref": "/musculoskeletal/shoulder"
+            },
+            {
+                "linkbtn": "Upper arm",
+                "linkhref": "/musculoskeletal/upperarm"
+            },
+            {
+                "linkbtn": "Elbow",
+                "linkhref": "/musculoskeletal/elbow"
+            },
+            {
+                "linkbtn": "Forearm",
+                "linkhref": "/musculoskeletal/forearm"
+            },
+            {
+                "linkbtn": "Wrist",
+                "linkhref": "/musculoskeletal/wrist"
+            },
+            {
+                "linkbtn": "Hand",
+                "linkhref": "/musculoskeletal/hand"
+            },
+            {
+                "linkbtn": "Upper back",
+                "linkhref": "/musculoskeletal/upperback"
+            },
+            {
+                "linkbtn": "Lower back",
+                "linkhref": "/musculoskeletal/lowerback"
+            },
+            {
+                "linkbtn": "Buttock",
+                "linkhref": "/musculoskeletal/buttock"
+            },
+            {
+                "linkbtn": "Chest",
+                "linkhref": "/musculoskeletal/chest"
+            },
+            {
+                "linkbtn": "Abdominals",
+                "linkhref": "/musculoskeletal/abdominals"
+            },
+            {
+                "linkbtn": "Pelvis",
+                "linkhref": "/musculoskeletal/pelvis"
+            },
+            {
+                "linkbtn": "Hip",
+                "linkhref": "/musculoskeletal/hip"
+            },
+            {
+                "linkbtn": "Groin",
+                "linkhref": "/musculoskeletal/groin"
+            },
+            {
+                "linkbtn": "Upper leg",
+                "linkhref": "/musculoskeletal/upperleg"
+            },
+            {
+                "linkbtn": "Lower leg",
+                "linkhref": "/musculoskeletal/lowerleg"
+            },
+            {
+                "linkbtn": "Ankle",
+                "linkhref": "/musculoskeletal/ankle"
+            },
+            {
+                "linkbtn": "Foot",
+                "linkhref": "/musculoskeletal/foot"
+            }
+        ]
+    },
+    {
+        "blogheading": {
+            "blogTitle": "hip",
+            "blogSubTitle": "thephysiorehabpractice.co.uk",
+            "addClass": "",
+            "body": "Hip physiotherapy is focused on your biomechanical and structural rehabilitation. With targeted goals to maximise your functional movement so you can return to normal daily activities. This type of therapy is most commonly used to address accidental injuries, sports injuries and resolving physical impairment due to lifestyle and ageing."
+        },
+        "imginfo0": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/background/musculoskeletal-index.png"
+        },
+        "imginfo1": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": ""
+        },
+        "blogbody": {
+            "paras": [
+                {
+                    "para": ""
+                }
+            ]
+        },
+        "imginfo2": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/conditions1.jpg"
+        },
+        "blogfooter": {
+            "focus": "0330 088 7800",
+            "footerbody": "If you would like more information on Hip conditions, or to book an appointment please call"
+        },
+        "linkheading": "At thephysiorehabpractice.co.uk, our experienced physiotherapists treat a variety of Hip conditions affecting the:",
+        "links": [
+            {
+                "linkbtn": "Head",
+                "linkhref": "/head"
+            },
+            {
+                "linkbtn": "Neck",
+                "linkhref": "/neck"
+            },
+            {
+                "linkbtn": "Shoulder",
+                "linkhref": "/shoulder"
+            },
+            {
+                "linkbtn": "Upper arm",
+                "linkhref": "/upperarm"
+            }
+        ]
+    },
+    {
+        "blogheading": {
+            "blogTitle": "neck",
+            "blogSubTitle": "thephysiorehabpractice.co.uk",
+            "addClass": "",
+            "body": "neck physiotherapy is focused on your biomechanical and structural rehabilitation. With targeted goals to maximise your functional movement so you can return to normal daily activities. This type of therapy is most commonly used to address accidental injuries, sports injuries and resolving physical impairment due to lifestyle and ageing."
+        },
+        "imginfo0": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/background/musculoskeletal-index.png"
+        },
+        "imginfo1": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": ""
+        },
+        "blogbody": {
+            "paras": [
+                {
+                    "para": ""
+                }
+            ]
+        },
+        "imginfo2": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/conditions1.jpg"
+        },
+        "blogfooter": {
+            "focus": "0330 088 7800",
+            "footerbody": "If you would like more information on Hip conditions, or to book an appointment please call"
+        },
+        "linkheading": "At thephysiorehabpractice.co.uk, our experienced physiotherapists treat a variety of Hip conditions affecting the:",
+        "links": [
+            {
+                "linkbtn": "Headf",
+                "linkhref": "/head"
+            },
+            {
+                "linkbtn": "Neck",
+                "linkhref": "/neck"
+            },
+            {
+                "linkbtn": "Shoulder",
+                "linkhref": "/shoulder"
+            },
+            {
+                "linkbtn": "Upper arm",
+                "linkhref": "/upperarm"
+            }
+        ]
+    },
+    {
+        "blogheading": {
+            "blogTitle": "appointments",
+            "blogSubTitle": "Book appointments at thephysiorehabpractice.co.uk",
+            "addClass": "text-lg lowercase",
+            "body": "thephysiorehabpractice.co.uk, provide quick, flexible appointments, either in one of our modern clinics or within the comfort of your home."
+        },
+        "imginfo0": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/background/appointments-index.png"
+        },
+        "imginfo1": {
+            "alt": "",
+            "addClass": "rounded-lg object-cover object-bottom h-full w-full",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/appointments/appointments.jpg"
+        },
+        "blogbody": {
+            "paras": [
+                {
+                    "para": "Your treatment at thephysiorehabpractice.co.uk will be tailored to your condition to promote recovery and improve functional independence with everyday activities."
+                }
+            ]
+        },
+        "imginfo2": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": ""
+        },
+        "blogfooter": {
+            "focus": "",
+            "footerbody": ""
+        },
+        "linkheading": "Check out our other musculoskeletal pages:",
+        "links": [
+            {
+                "linkbtn": "Holden t1",
+                "linkhref": "/location"
+            }
+        ]
+    },
+    {
+        "blogheading": {
+            "blogTitle": "services",
+            "blogSubTitle": "Common treatments at thephysiorehabpractice.co.uk",
+            "addClass": "",
+            "body": "At thephysiorehabpractice.co.uk, our specialist physiotherapists use a variety of treatment techniques to treat a range of musculoskeletal and neurological conditions for adults and children."
+        },
+        "imginfo0": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/background/treatments-index.png"
+        },
+        "imginfo1": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": "https://www.physio.co.uk/images/treatments/treatments.jpg"
+        },
+        "blogbody": {
+            "paras": [
+                {
+                    "para": "Your treatment at thephysiorehabpractice.co.uk will be tailored to your condition to promote recovery and improve functional independence with everyday activities."
+                }
+            ]
+        },
+        "imginfo2": {
+            "alt": "",
+            "addClass": "",
+            "width": "",
+            "height": "",
+            "src": ""
+        },
+        "blogfooter": {
+            "focus": "0330 088 7800",
+            "footerbody": "For more information on treatment at thephysiorehabpractice.co.uk, or to book an appointment please call"
+        },
+        "linkheading": "Check out our other musculoskeletal pages:",
+        "links": [
+            {
+                "linkbtn": "Holden t1",
+                "linkhref": "/location"
+            }
+        ]
+    }
 ]
 }
