@@ -304,6 +304,7 @@
   },
   "physioblogs": [
     {
+      "herotext": "musculoskeletal",
       "blogheading": {
         "blogTitle": "musculoskeletal",
         "blogSubTitle": "flexfastphysio.co.uk",
@@ -361,6 +362,7 @@
       "links": []
     },
     {
+      "herotext": "what we treat",
       "blogheading": {
         "blogTitle": "what we treat",
         "blogSubTitle": "flexfastphysio.co.uk",
@@ -496,25 +498,730 @@
       ]
     },
     {
+      "herotext": "head",
       "blogheading": {
-        "blogTitle": "hip",
+        "blogTitle": "head",
         "blogSubTitle": "flexfastphysio.co.uk",
         "addClass": "",
-        "body": "The hip joint supports the weight of the body in both static and dynamic postures. The hip is a ball and socket joint allowing a great deal of movement. The hip joint is supported by ligaments and the movements of the hip joint are performed by a number of muscles."
+        "body": ""
       },
       "imginfo0": {
         "alt": "",
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/background/musculoskeletal-conditions-hip-index.png"
+        "src": ""
       },
       "imginfo1": {
         "alt": "",
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/hip/hip1.jpg"
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on head conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Bell's Palsy",
+          "linkhref": "/what-we-treat/head/bell's-palsy"
+        },
+        {
+          "linkbtn": "Dizziness",
+          "linkhref": "/what-we-treat/head/dizziness"
+        },
+        {
+          "linkbtn": "Facial Palsy",
+          "linkhref": "/what-we-treat/head/facial-palsy"
+        },
+        {
+          "linkbtn": "Headaches",
+          "linkhref": "/what-we-treat/head/headaches"
+        },
+        {
+          "linkbtn": "Jaw Fractures",
+          "linkhref": "/what-we-treat/head/jaw-fractures"
+        },
+        {
+          "linkbtn": "Jaw Pain",
+          "linkhref": "/what-we-treat/head/jaw-pain"
+        },
+        {
+          "linkbtn": "TMJ Dysfunction",
+          "linkhref": "/what-we-treat/head/tmj-dysfunction"
+        }
+      ]
+    },
+    {
+      "herotext": "neck",
+      "blogheading": {
+        "blogTitle": "neck",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on Neck conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Mechanical Neck Pain",
+          "linkhref": "/what-we-treat/neck/mechanical-neck-pain"
+        },
+        {
+          "linkbtn": "Cervicogenic Headache",
+          "linkhref": "/what-we-treat/neck/cervicogenic-headache"
+        },
+        {
+          "linkbtn": "Whiplash",
+          "linkhref": "/what-we-treat/neck/whiplash"
+        },
+        {
+          "linkbtn": "Cervical Spondylosis",
+          "linkhref": "/what-we-treat/neck/cervical-spondylosis"
+        },
+        {
+          "linkbtn": "Nerve related neck/arm pain (aka ‘trapped nerve’, ‘slipped disc’)",
+          "linkhref": "/what-we-treat/neck/nerve-related-neck-arm-pain-aka-trapped-nerve-slipped-disc"
+        },
+        {
+          "linkbtn": "Text Neck/’Bad Posture’",
+          "linkhref": "/what-we-treat/neck/text-Neck-bad-posture"
+        }
+      ]
+    },
+    {
+      "herotext": "mechanical neck pain",
+      "blogheading": {
+        "blogTitle": "mechanical-neck-pain",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Mechanical neck pain is widely understood to be pain around the neck region that does not arise from a specific trauma or pathology. It can come on suddenly, eg waking in the morning having ‘slept funny’ or more slowly over time. The pain can manifest as both dull pain or sharp sudden pains on certain movements. Some people experience this pain on one side of the neck, whereas others describe it as affecting the whole neck and even spreading to the head or shoulder region."
+          },
+          {
+            "para": "Most people recover well from mechanical neck pain, particularly once they start to regain their normal movements. For some they improve quickly, within a few days, and may just take some simple pain relief or apply heat to the area. Others can require help and this type of complaint tends to respond very well to manual therapy from a clinician such as a physiotherapist (eg massage, manipulation) and specific exercises."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on mechanical neck pain conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "cervicogenic headache",
+      "blogheading": {
+        "blogTitle": "cervicogenic-headache",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Around 10-15% of headaches can be linked to neck pain that are called cervicogenic headaches. The neck pain normally starts first then headaches begin from the base of the head and across the side of the head can be experienced. Symptoms that people report are neck stiffness and tightness, pain that increases while in the same position for long periods (sitting at desk or driving) and you may notice a reduced range of neck movement."
+          },
+          {
+            "para": "Around 10-15% of headaches can be linked to neck pain that are called cervicogenic headaches. The neck pain normally starts first then headaches begin from the base of the head and across the side of the head can be experienced. Symptoms that people report are neck stiffness and tightness, pain that increases while in the same position for long periods (sitting at desk or driving) and you may notice a reduced range of neck movement."
+          },
+          {
+            "para": "Physiotherapists are able to assess these headaches and determine if there are treatable in clinic or refer you to a GP if there are not physio related. Evidence suggests a combination of hands on (manual therapy) and exercise based therapy can have good results."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on cervicogenic headache conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "whiplash",
+      "blogheading": {
+        "blogTitle": "whiplash",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "The term whiplash is linked to a neck injury from a sudden movement that causes the head to be jolted forwards and backwards or side to side. Road traffic accidents are commonly linked to this injury, it can also be linked to sports that involve sudden changes in speed such as water skiing, football, martial arts and many others."
+          },
+          {
+            "para": "Symptoms can often commence a number of hours up to 1-2 days after the incident. At the time of accident, it is advised to seek medical advice to complete an assessment. Once cleared of any structural injury that relates to the majority of cases, whiplash can be treated with an individualised combination of medication, reassurance and advice on movements. Physiotherapy can support this through hands on therapy and specific exercises to help return you back to normal function and the sports you enjoy."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on whiplash conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "cervical spondylosis",
+      "blogheading": {
+        "blogTitle": "cervical-spondylosis",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Spondylosis is a term that relates to bony changes of the spine that happen over time, very much like arthritis of the knees and hips. As we age our body adapts along the way to the forces we apply. These forces over time can mean the joints can gradually change shape and our discs reduce in hydration therefore reducing in height. Rarely these changes ever cause pain however at times in the neck where these slowly formed changes occur it can lead to joint pain, stiffness and reduced range of movement. Common symptoms are pain localised to the neck, a gradual onset of symptoms, clicking. Additional symptoms are pins and needles and intermittent numbness in the arm or hand. "
+          },
+          {
+            "para": "This condition has been shown to benefit from physiotherapy treatment through an individualised management plan and manual therapy when indicated."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on cervical spondylosis conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "nerve related neck arm pain (aka-‘trapped nerve’,‘slipped disc’)",
+      "blogheading": {
+        "blogTitle": "nerve-related-neck-arm-pain-aka-trapped-nerve-slipped-disc",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Nerve related neck and arm pain is commonly seen by physiotherapists and 90% of these symptoms resolve with non-surgical management."
+          },
+          {
+            "para": "Your neck consists of seven bones (vertebrae) with nerves exiting at each level through small tunnels that run down your arm to your hands via different routes. If the small tunnel where the nerve exits the spine is partially obscured or if the nerve is repeatedly aggravated it can lead to symptoms being experienced in your neck, down your arm and at times in your hand. These symptoms are normally experienced in one arm and have been described as pins and needles, numbness, shooting, burning or the sense of freezing cold water being pour down your arm along with many other descriptions. Highly repetitive movements or during sudden movements can irritate the nerve that can begin a cascade of events resulting in symptoms. "
+          },
+          {
+            "para": "During the early stages these symptoms can be highly concerning and interruptive to people’s daily lives. Physiotherapist are able to assess these symptoms and provide a management plan that can involve providing clear information of serious signs and symptoms to be aware of that require urgent care, advice on managing pain, suggest positions of ease, select appropriate exercises and trial manual therapy in attempt to settle the symptoms. Normally with good management symptoms settle over 2-8 weeks (can be longer) and physiotherapists will develop your care at the speed that matches your recovery to full function. If indicated during the initial assessment or if symptoms are not improving within normal healing time frames Physiotherapist are able to refer on for further investigations and different treatment options."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on nerve related neck arm pain (aka-‘trapped nerve’,‘slipped disc’) conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "text Neck ’bad-posture’",
+      "blogheading": {
+        "blogTitle": "text-Neck-bad-posture",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "‘Text neck’ is a relatively new phrase that some have been using to refer to pain in the neck associated with prolonged positions with the head tilted forwards. Many of us use handheld electronic devices in our daily lives and it’s thought that sustained periods with the head looking down at the screen can cause a build up of ‘strain’ associated with pain. The long-held belief by many that ‘bad posture’ causes pain has been refuted by recent research, but rather the evidence suggests that overly sustained positions of any posture are in fact the thing that can result in stiffness and pain. This underlines the old adage that ‘movement is medicine’ when it concerns the body."
+          },
+          {
+            "para": "Nonetheless, if someone develops pain associated with sustained positions or high stress, many will respond very well to hands-on treatment such as massage, or specific stretches to alleviate muscles."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on nerve related text Neck ’bad-posture’ conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "shoulder",
+      "blogheading": {
+        "blogTitle": "shoulder",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on shoulder, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Frozen Shoulder",
+          "linkhref": "/what-we-treat/shoulder/frozen-shoulder"
+        },
+        {
+          "linkbtn": "Cervicogenic Headache",
+          "linkhref": "/what-we-treat/shoulder/impingement-syndrome"
+        },
+        {
+          "linkbtn": "Rotator Cuff Tears",
+          "linkhref": "/what-we-treat/shoulder/rotator-cuff-tears"
+        },
+        {
+          "linkbtn": "Shoulder Dislocations & Instability",
+          "linkhref": "/what-we-treat/shoulder/shoulder-dislocations-instability"
+        },
+        {
+          "linkbtn": "Acromioclavicular Joint Injuries",
+          "linkhref": "/what-we-treat/shoulder/acromioclavicular-joint-injuries"
+        }
+      ]
+    },
+    {
+      "herotext": "frozen shoulder",
+      "blogheading": {
+        "blogTitle": "frozen-shoulder",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "The cause of frozen shoulder is still unknown but is found more often in those with diabetes, those between 40 and 60 years of age, those with heart disease or after a shoulder injury or operation. There are three main phases to this condition with the first being the ‘freezing’ stage where the shoulder is very painful without any exact reason for this pain and there is gradual loss of shoulder movement. The second stage is the ‘frozen’ stage where there is a lot of stiffness and reduced movement of the shoulder but with less pain. The final stage is the ‘thawing’ phase where the shoulder gradually increases its range of movement. This condition is self-limiting and usually runs its course between 12 months to 2 years. In this time physiotherapy can be very beneficial to restore movement and function, decrease pain levels and help to guide management of this condition. The main symptoms associated with frozen shoulder are a dull or aching pain in your affected shoulder, which is often worse at night or when you move your shoulder joint. Another symptom is stiffness around your shoulder joint that may stop you from moving your shoulder normally. This can make it difficult to do everyday tasks such as driving or dressing yourself."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on frozen shoulder, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "impingement syndrome",
+      "blogheading": {
+        "blogTitle": "impingement-syndrome",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Often now referred to as ‘Rotator Cuff Related Shoulder Pain’ or ‘Sub-Acromial Pain Syndrome’ (both very long names it must be said!) this term typically refers to a specific sort of pain associated with lifting the arm or reaching behind your back. It’s often felt as a pain in the shoulder itself or the upper arm. It typically does not radiate down to the hand. Most people will not associate it with a specific injury per se, but rather that it came on over a few days or weeks. In most cases, the small tendons that operate the ball and socket joint of the shoulder will be the ‘pain driver’. Muscles and tendons can start to generate pain for different reasons but one of the most common causes is thought to be a gradual deconditioning or under-loading of the muscles over time. Once painful, the tendons then react to being used (eg lifting the arm), inducing pain and making simple tasks very difficult. Resting the arm often makes the pain ease in the moment but doesn’t address the underlying cause. "
+          },
+          {
+            "para": "Trying to keep the shoulder mobile is advisable with this condition. Gentle strengthening exercises that don’t cause too much discomfort can also be performed, but if pain persists then it’s usually advisable to get a physio assessment so that a more specific plan to recovery can be worked out. "
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on impingement syndrome, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "rotator cuff tears",
+      "blogheading": {
+        "blogTitle": "rotator-cuff-tears",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "The small muscles or tendons of your shoulder can be torn through trauma or as we age resulting in a small, moderate or large tear. Indications of having a rotator cuff tear is having shoulder pain along with upper arm pain, weakness when lifting your arm and an audio click/crack when moving your arm. Additional symptoms are pain when lying on the affected shoulder, pain when reaching behind your back, pain during activity and better at rest."
+          },
+          {
+            "para": "Rotator cuff tears are rare in young people and more commonly seen in people 40 years old or older."
+          },
+          {
+            "para": "The rotator cuff is a set of four muscles that surround the ball and socket of the shoulder. Their role is to assist in smooth controlled movement of the shoulder for example when throwing a ball, brushing your hair or put your seat belt on."
+          },
+          {
+            "para": "If you have experienced a traumatic injury or age-related muscle or tendon tear a physiotherapist will be able to discuss your management options. Physiotherapists are well placed to refer on for orthopaedic opinion. Evidence supports strengthening the muscles surrounding the shoulder improves symptoms, function and movement that can take 3-12months."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on rotator cuff tears, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "shoulder dislocations & instability",
+      "blogheading": {
+        "blogTitle": "shoulder-dislocations-instability",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Dislocations are linked to two main categories. Traumatic dislocation following an abrupt high force injury to the shoulder joint that can occur during contact sports or falls on an out stretched arm. This will require emergency care and can require surgery. Following a traumatic shoulder dislocation, it is advised to follow an individualised rehabilitation programme with a physiotherapist to restore strength and control whether you have had surgery or not."
+          },
+          {
+            "para": "Secondly, a non-traumatic shoulder dislocation is generally due to long standing abnormal muscle activity around the shoulder. Having a fear of movement, hypermobile joints and psychological factors such as childhood trauma or high stress levels are linked to this condition. Physiotherapists can carry out a detailed assessment that will take into consideration these factors and be able to develop a specific management plan liaising with other health care professionals if indicated."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on shoulder dislocations & instability, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "acromioclavicular joint injuries",
+      "blogheading": {
+        "blogTitle": "acromioclavicular-joint-injuries",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "The acromioclavicular joint, or ACJ for short, is a small but important joint that connects the collar bone (clavicle) to the top of the shoulder blade (acromion). The joint is there to provide stability but also as a pivoting point around which the shoulder blade can articulate when we reach up, reach across or when we shrug our shoulders. This particular joint is separate to the main call and socket joint of the shoulder but works in partnership. "
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on acromioclavicular joint injuries, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "hip",
+      "blogheading": {
+        "blogTitle": "hip",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
       },
       "blogbody": {
         "paras": []
@@ -530,192 +1237,200 @@
         "focus": "0330 088 7800",
         "footerbody": "If you would like more information on Hip conditions, or to book an appointment please call"
       },
-      "linkheading": "The most common hip injuries the physiotherapists at at flexfastphysio.co.uk are:",
+      "linkheading": "",
       "links": [
         {
-          "linkbtn": "Hip pain",
-          "linkhref": "/hip-pain"
+          "linkbtn": "Greater Trochanter Pain syndrome (GTPS)",
+          "linkhref": "/what-we-treat/hip/greater-trochanter-pain-syndrome-GTPS"
         },
         {
-          "linkbtn": "Sciatica",
-          "linkhref": "/sciatica"
+          "linkbtn": "Piriformis Syndrome",
+          "linkhref": "/what-we-treat/hip/piriformis-syndrome"
         },
         {
-          "linkbtn": "Hip muscle strain",
-          "linkhref": "/hip muscle strain"
+          "linkbtn": "Hip impingement",
+          "linkhref": "/what-we-treat/hip/hip-impingement"
         },
         {
-          "linkbtn": "Trochanteric bursitis",
-          "linkhref": "/trochanteric-bursitis"
+          "linkbtn": "Groin Strain",
+          "linkhref": "/what-we-treat/hip/groin-strain"
         }
       ]
     },
     {
+      "herotext": "greater trochanter pain syndrome GTPS",
       "blogheading": {
-        "blogTitle": "head",
+        "blogTitle": "greater-trochanter-pain-syndrome-GTPS",
         "blogSubTitle": "flexfastphysio.co.uk",
         "addClass": "",
-        "body": "The neck or the cervical spine distinguishes the head from the trunk. The cervical spine consists of seven bony segments, from C-1 to C-7, with cartilaginous discs in between each vertebral body. The neck supports the weight of the head and protects the spinal cord. The neck is also very flexible and allows the head to turn in all directions."
+        "body": ""
       },
       "imginfo0": {
         "alt": "",
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/background/musculoskeletal-conditions-neck-index.png"
+        "src": ""
       },
       "imginfo1": {
         "alt": "",
-        "addClass": "object-cover object-top h-full w-full",
+        "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/neck/neck.jpg"
+        "src": ""
       },
       "blogbody": {
-        "paras": []
+        "paras": [
+          {
+            "para": "GTPS is a common condition affecting women over the age of 40 years old. It is an inflammation of the tendons of the hip muscles or the hip bursa resulting in discomfort and pain on the outside of the hip joint. Common symptoms include Pain on the outer and upper most region of thigh and tenderness around the outside of the hip joint. The pain can sometimes radiate down the front and outside portion of the thigh. There can be swelling or bruising of the hip and tenderness to the touch. Other symptoms include general hip stiffness, decreased hip movement and pain when lying on the affected side especially on hard surfaces. Pain is usually worse when going up or down stairs or standing for too long. You may notice walking becoming painful which can also cause pain in the knee or lower back. Common causes include a spike in training routines as well as a muscular imbalance with weakness of the gluteal, hamstring, quad, abductor, adductor and hip flexor muscles. Other causes link to repetitive hip movements in sports such as cycling, running and hockey. The good news is that these symptoms can resolve through specific and gradually graded exercises that your physiotherapist will be able to prescribe to you after assessment."
+          }
+        ]
       },
       "imginfo2": {
         "alt": "",
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+        "src": "https://www.physio.co.uk/images/hip/hip2.jpg"
       },
       "blogfooter": {
         "focus": "0330 088 7800",
-        "footerbody": "If you would like more information on Neck conditions, or to book an appointment please call"
+        "footerbody": "If you would like more information on greater trochanter pain syndrome GTPS conditions, or to book an appointment please call"
       },
-      "linkheading": "At flexfastphysio.co.uk, our experienced physiotherapists treat a variety of Neck conditions affecting the:",
-      "links": [
-        {
-          "linkbtn": "Broken neck",
-          "linkhref": "/broken-neck"
-        },
-        {
-          "linkbtn": "Neck pain",
-          "linkhref": "/neck-pain"
-        },
-        {
-          "linkbtn": "Whiplash",
-          "linkhref": "/whiplash"
-        },
-        {
-          "linkbtn": "Stiff neck",
-          "linkhref": "/stiff-neck"
-        }
-      ]
+      "linkheading": "",
+      "links": []
     },
     {
+      "herotext": "piriformis syndrome",
       "blogheading": {
-        "blogTitle": "neck",
+        "blogTitle": "piriformis-syndrome",
         "blogSubTitle": "flexfastphysio.co.uk",
         "addClass": "",
-        "body": "The neck or the cervical spine distinguishes the head from the trunk. The cervical spine consists of seven bony segments, from C-1 to C-7, with cartilaginous discs in between each vertebral body. The neck supports the weight of the head and protects the spinal cord. The neck is also very flexible and allows the head to turn in all directions."
+        "body": ""
       },
       "imginfo0": {
         "alt": "",
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/background/musculoskeletal-conditions-neck-index.png"
+        "src": ""
       },
       "imginfo1": {
         "alt": "",
-        "addClass": "object-cover object-top h-full w-full",
+        "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/neck/neck.jpg"
+        "src": ""
       },
       "blogbody": {
-        "paras": []
+        "paras": [
+          {
+            "para": "This is a muscle located deep within your buttock and in some people can be a cause of great discomfort. It has a close relationship with the sciatic nerve and as a result can be a cause of sciatica. The sciatic nerve within the deep gluteal region can result in symptoms such as buttock pain, tenderness in the buttock region, shooting, burning, or aching down the back of the leg, numbness and/or pins and needles down the back of the leg. These symptoms can be aggravated by stretching or contraction the deep hip rotators. Because of its close relationship with the sciatic nerve your physiotherapist will complete tests that will identify a more muscular or nerve related condition. Treatment varies depending on the nature of the diagnosis. Your physiotherapist will be able to detail the rehabilitation process for you in order improve your symptoms."
+          }
+        ]
       },
       "imginfo2": {
         "alt": "",
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+        "src": "https://www.physio.co.uk/images/hip/hip2.jpg"
       },
       "blogfooter": {
         "focus": "0330 088 7800",
-        "footerbody": "If you would like more information on Neck conditions, or to book an appointment please call"
+        "footerbody": "If you would like more information on piriformis syndrome conditions, or to book an appointment please call"
       },
-      "linkheading": "At flexfastphysio.co.uk, our experienced physiotherapists treat a variety of Neck conditions affecting the:",
-      "links": [
-        {
-          "linkbtn": "Broken neck",
-          "linkhref": "/what-we-treat/neck/broken-neck"
-        },
-        {
-          "linkbtn": "Neck pain",
-          "linkhref": "/what-we-treat/neck/neck-pain"
-        },
-        {
-          "linkbtn": "Whiplash",
-          "linkhref": "/what-we-treat/neck/whiplash"
-        },
-        {
-          "linkbtn": "Stiff neck",
-          "linkhref": "/what-we-treat/neck/stiff-neck"
-        }
-      ]
+      "linkheading": "",
+      "links": []
     },
     {
+      "herotext": "hip impingement",
       "blogheading": {
-        "blogTitle": "broken-neck",
+        "blogTitle": "hip-impingement",
         "blogSubTitle": "flexfastphysio.co.uk",
         "addClass": "",
-        "body": "The neck or the cervical spine distinguishes the head from the trunk. The cervical spine consists of seven bony segments, from C-1 to C-7, with cartilaginous discs in between each vertebral body. The neck supports the weight of the head and protects the spinal cord. The neck is also very flexible and allows the head to turn in all directions."
+        "body": ""
       },
       "imginfo0": {
         "alt": "",
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/background/musculoskeletal-conditions-neck-index.png"
+        "src": ""
       },
       "imginfo1": {
         "alt": "",
-        "addClass": "object-cover object-top h-full w-full",
+        "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/neck/neck.jpg"
+        "src": ""
       },
       "blogbody": {
-        "paras": []
+        "paras": [
+          {
+            "para": "Hip impingement known as femoral acetabular impingement (FAI) is a movement related disorder with multiple symptoms associated to the condition. Hip pain, clicking, catching, stiffness or giving way with restricted movement are linked to hip impingement. Typically, active males around adolescence who participate in multi-directional and high impact movements are at risk of developing symptoms. Likewise, active females are at risk who are around 30 years old, can notice a gradual onset of symptoms and struggle to sprint. Physiotherapy can help by providing advice on management that can assist settling the symptoms down before developing a rehabilitation plan to return to sport over a 3-4 months. In some cases if symptoms are not improving then a referral on to orthopaedics would be advised."
+          }
+        ]
       },
       "imginfo2": {
         "alt": "",
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+        "src": "https://www.physio.co.uk/images/hip/hip2.jpg"
       },
       "blogfooter": {
         "focus": "0330 088 7800",
-        "footerbody": "If you would like more information on Neck conditions, or to book an appointment please call"
+        "footerbody": "If you would like more information on hip impingement conditions, or to book an appointment please call"
       },
-      "linkheading": "At flexfastphysio.co.uk, our experienced physiotherapists treat a variety of Neck conditions affecting the:",
-      "links": [
-        {
-          "linkbtn": "Broken neck",
-          "linkhref": "/what-we-treat/neck/brokens"
-        },
-        {
-          "linkbtn": "Neck pain",
-          "linkhref": "/what-we-treat/neck/neck-pain"
-        },
-        {
-          "linkbtn": "Whiplash",
-          "linkhref": "/what-we-treat/neck/whiplash"
-        },
-        {
-          "linkbtn": "Stiff neck",
-          "linkhref": "/what-we-treat/neck/stiff-neck"
-        }
-      ]
+      "linkheading": "",
+      "links": []
     },
     {
+      "herotext": "groin strain",
+      "blogheading": {
+        "blogTitle": "groin-strain",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Groin or adductor muscle related strains are most commonly associated with active 20 – 30 year old males who play football, hockey or who are highly athletic. Current evidence suggests more male than females suffer with this condition however with more females playing sport the cases are increasing. Pain is felt when stretching the groin and when pressing on the tendon (part where muscle joins to the bone). Physiotherapy can help improve these symptoms by selecting the correct level of intensity for your rehabilitation and assist you in returning to your activities. Rehabilitation time scales vary mainly on how long you have been experiencing the symptoms."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/hip/hip2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on groin strain conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "appointments",
       "blogheading": {
         "blogTitle": "appointments",
         "blogSubTitle": "Book appointments at flexfastphysio.co.uk",
@@ -758,6 +1473,7 @@
       "links": []
     },
     {
+      "herotext": "services",
       "blogheading": {
         "blogTitle": "services",
         "blogSubTitle": "Common treatments at flexfastphysio.co.uk",
