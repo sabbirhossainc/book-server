@@ -485,7 +485,7 @@
         },
         {
           "linkbtn": "Lower leg",
-          "linkhref": "/what-we-treat/lowerleg"
+          "linkhref": "/what-we-treat/lower-leg"
         },
         {
           "linkbtn": "Ankle",
@@ -1425,6 +1425,850 @@
       "blogfooter": {
         "focus": "0330 088 7800",
         "footerbody": "If you would like more information on groin strain conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "elbow",
+      "blogheading": {
+        "blogTitle": "elbow",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "For more information on how physiotherapy can help treat any injuries, or to book an appointment, please contact us via email at office@flexfastphysio.co.uk or call us on"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Tennis Elbow",
+          "linkhref": "/what-we-treat/elbow/tennis-elbow"
+        },
+        {
+          "linkbtn": "Golfers Elbow",
+          "linkhref": "/what-we-treat/elbow/golfers-elbow"
+        },
+        {
+          "linkbtn": "Elbow Ligament Sprain",
+          "linkhref": "/what-we-treat/elbow/elbow-ligament-sprain"
+        },
+        {
+          "linkbtn": "Cubital Tunnel Syndrome",
+          "linkhref": "/what-we-treat/elbow/cubital-tunnel-syndrome"
+        }
+      ]
+    },
+    {
+      "herotext": "tennis elbow",
+      "blogheading": {
+        "blogTitle": "tennis-elbow",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Tennis elbow is a common condition that causes pain in your forearm and around the outside of your elbow. Despite its name, most people don’t get it from playing tennis. It’s usually caused by repeated movements such as gardening or typing. It is often due to overuse of a group of muscles in your forearm which attach to the outside point of your elbow where the tendon attaching the muscles to the bone develop tiny tears and then thicken and swells causing pain and tenderness. Pain is usually worse when you bend and straighten your elbow and your wrist. It can also progress to getting pain when gripping or twisting your hand. The pain can vary from mild discomfort to severe pain that keeps you awake at night. Often when rest can be helpful to reduce the pain but pain then reappears when you start doing the same movements as was previously painful. Because of this it is useful to see a physiotherapist who can help prescribe exercises to restore function and reduce pain."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on tennis elbow conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "golfers elbow",
+      "blogheading": {
+        "blogTitle": "golfers-elbow",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Golfers elbow is where pain develops on the inside of the elbow where muscles of your forearm insert to your elbow. Ironically most people who have this condition do not play golf. Symptoms include focal pain and sometimes widespread pain that originate from the inside of the elbow, pain and weakness when opening jars or gripping items and struggling to fully straighten your elbow. The majority of people who develop these symptoms have recently increased their level of activity or slightly changed their routine for example an increase in gardening, typing or an increase in resistance training. You can develop symptoms at any age but commonly people are between 40-60 years old. Factors that increase your risk of developing this condition are if you have diabetes (type 1 and 2), if you smoke, have high cholesterol levels, prone to a sedentary lifestyle, overweight and eat fatty foods on a regular basis. Reassuringly after a clinical diagnosis is made there is strong evidence that symptoms can improve over time with an individualised physiotherapy plan."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on golfers  elbow conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "elbow ligament sprain",
+      "blogheading": {
+        "blogTitle": "elbow-ligament-sprain",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "The elbow has three ligaments that assist with stabilising the joint, they can be injured by trauma or overuse activities. Common injuries are falling on an outstretched arm, forced twisting of the arm and during sports such as volleyball and tennis. Symptoms include dull aching pain, swelling around the injured site and pain during movement. Physiotherapists can assess the joint stability and help manage pain, restore movement and address any secondary complications such as strength deficits. The level of injury will determine the recovery time and the amount of rehabilitation you will require. In rare occasions surgery is required to reconstruct the ligament where rehabilitation is key in order to return to previous function or sports."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on elbow ligament sprain conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "cubital tunnel syndrome",
+      "blogheading": {
+        "blogTitle": "cubital-tunnel-syndrome",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Cubital tunnel syndrome is a nerve irritation syndrome that is caused by repetitive over stretching of the elbow or by direct trauma to the elbow. Symptoms will include pain, numbness and pins and needles from the elbow joint down."
+          },
+          {
+            "para": "People at risk of developing these symptoms are those over 40 years old, people who complete overhead throwing activities (javelin), people who rest their elbows on hard surfaces constantly or people who rest the elbow in prolonged bent arm positions (holding telephone). With physiotherapy a range of strategies, mobilisations and exercises have been shown to improve 90% of cases in 2-3 months."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on cubital tunnel syndrome conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "ankle",
+      "blogheading": {
+        "blogTitle": "ankle",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "For more information on how physiotherapy can help treat any injuries, or to book an appointment, please contact us via email at office@flexfastphysio.co.uk or call us on"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Ankle Sprains",
+          "linkhref": "/what-we-treat/ankle/ankle-sprains"
+        },
+        {
+          "linkbtn": "Achilles Tendinopathy",
+          "linkhref": "/what-we-treat/ankle/achilles-tendinopathy"
+        },
+        {
+          "linkbtn": "Plantar Fasciitis / plantar heel pain / plantar fasciopathy",
+          "linkhref": "/what-we-treat/ankle/plantar-fasciitis-plantar-heel-pain-plantar-fasciopathy"
+        },
+        {
+          "linkbtn": "Stress Fracture",
+          "linkhref": "/what-we-treat/ankle/stress-fracture"
+        },
+        {
+          "linkbtn": "Morton’s Neuroma",
+          "linkhref": "/what-we-treat/ankle/mortons-neuroma"
+        }
+      ]
+    },
+    {
+      "herotext": "ankle sprains",
+      "blogheading": {
+        "blogTitle": "ankle-sprains",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Then ankle is commonly injured following a twisting mechanism and the symptoms are often varied depending on what direction the ankle twists and the degree of the trauma. Swelling and bruising are common with these injuries. An ankle sprain generally happens when playing sports but can also occur in everyday life from a simple trip or change of direction or awkward landing on one foot. There are three varying levels to an ankle sprain with grade 1 being a mild sprain, 2 being moderate and 3 being a full rupture of a certain ligament(s). It is important that the degree of injury is diagnosed as this determines the management. Pain normally dissipates after a few weeks however the greatest risk for an ankle sprain is a previous injury/sprain so a good rehabilitation plan is needed to avoid a future injury. It is recommended to consult a physiotherapist to help increase the chances of an optimal recovery. During your session the physiotherapist will evaluate your ankle stability and overall strength of the area and assess the surrounding joints (knee and the hip) to identify any compensations that can be addressed. This will be key to minimise the risks of re-injury and help the you return in an improved physical state compared to before the initial injury."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on ankle sprains conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "achilles tendinopathy",
+      "blogheading": {
+        "blogTitle": "achilles-tendinopathy",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "The Achilles tendon is located behind the ankle and above the heel and serves as the connection between the calf muscles (gastrocnemius, soleus and plantaris) to the heel bone (calcaneus). During walking, running or jumping the achilles tendon main role is to absorb, store and use energy to act in a spring like manner to propel the body forwards. An imbalance in this storing/recovering system can lead to the tendon becoming overloaded or worse a tear which can be partial or full. An irritation of the achilles tendon can happen due to overloading, repetitive strain, or even a trauma. The most common context leading to achilles tendon pain is running. Multiple factors can cause these symptoms that include returning to activity after a period of inactivity, imbalances of posture during activity further up the leg (kinetic chain), poor shoe wear support or restricted foot mobility. Typical symptoms include swelling, redness of the area or even a sensation of heat can be felt. The achilles becomes painful on walking, running or hopping and a common characteristic is stiffness in the mornings that can be relieved with rest. The treatment options vary according to the individual, a physiotherapist can help advise the correct exercises and management for your injury. Shockwave therapy has been shown to have excellent results in the resolution of Achilles tendinopathy issues and is something we use here at Flex physio."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on achilles tendinopathy conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "plantar fasciitis plantar heel pain plantar fasciopathy",
+      "blogheading": {
+        "blogTitle": "plantar-fasciitis-plantar-heel-pain-plantar-fasciopathy",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Plantar foot pain is the most common cause of pain in the sole of the foot, commonly located around the heel and arch of the foot. In fact, plantar foot pain is a result of there being an irritation of a connective tissue band, known as the plantar fascia, which stretches from the heel to the toes."
+          },
+          {
+            "para": "Pain is worse when you start walking after prolonged periods of resting, for example getting out of bed in the morning. For some, exercising and walking may help alleviate the pain, however for others this may exacerbate the pain. For some people there can be no evident cause of this issue but factors such as older age, higher weight, issues with foot and ankle biomechanics, trauma to the foot and those who spend a lot of time on their feet for both occupation and recreational activities. Your physio will take a detailed history in order to diagnose and find out the root cause of your issue before treatment begins. Treatment generally consists of specific exercises to target the painful area and its root cause. Your physiotherapist will advise regarding pain management and potentially suggest use of orthotics. As a second line option here at the clinic we also use shockwave therapy which has been proven to provide excellent results when it comes to plantar foot pain. These symptoms usually resolves within 6 to 18 months without treatment. With accurate precautions and consistent therapy, the 95% of people with plantar fasciitis are able to recover within 6 months."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on plantar fasciitis plantar heel pain plantar fasciopathy conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "stress fracture",
+      "blogheading": {
+        "blogTitle": "stress-fracture",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Stress fractures are a type of fracture that can develop over time verses a sudden trauma. Small micro fractures can occur through repetitive loaded activity. If they are not allowed to heal and are subjected to further loading then the micro fractures remain an increasing symptom. Symptoms may include a gradual onset of “tooth aching” pain, tenderness when palpated and pain on “normal” activities such as walking. The main causes are linked to overuse injuries such as running or sports involving high levels of endurance. People who are at risk of developing a stress fracture are those who have changed surface or increased their training load. A physiotherapist will be able to assist in diagnosing these symptoms and that will involve imaging the painful area. Once confirmed appropriated management will be advised and support provided with a graded return to your activity. "
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on stress fracture conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "mortons neuroma",
+      "blogheading": {
+        "blogTitle": "mortons-neuroma",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Morton’s neuroma is classed as a compressive neuropathy (pinching of nerve tissue) commonly affecting the 3rd webspace of the foot. It can also affect the other web spaces. Symptoms include burning and aching pain in foot spreading to 3rd and 4th toes. These symptoms are normally aggravated with walking or running."
+          },
+          {
+            "para": "Generally, more females than men experience this condition with research linking an association to footwear eg wearing heeled shoes or narrow footwear that can increase the risk. "
+          },
+          {
+            "para": "Physiotherapy has been shown to help in a number of ways. Manual therapy can increase range of movement around the foot that might be applying increased pressure to the toes during walking. Additionally, Physiotherapists can advise on footwear and provided exercises targeted to stretch or strength areas that contributing to the symptoms. If symptoms are not improving Physiotherapists are well placed to work with or referral on to other services to trial alternative treatments (Podiatry and orthopaedics)."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on mortons neuroma conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "foot",
+      "blogheading": {
+        "blogTitle": "foot",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "For more information on how physiotherapy can help treat any injuries, or to book an appointment, please contact us via email at office@flexfastphysio.co.uk or call us on"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Plantar fasciitis",
+          "linkhref": "/what-we-treat/foot/plantar-fasciitis"
+        }
+      ]
+    },
+    {
+      "herotext": "plantar fasciitis",
+      "blogheading": {
+        "blogTitle": "plantar-fasciitis",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Plantar fasciitis is the most common cause of pain in the sole of the foot, commonly located around the heel and arch of the foot. In fact, plantar fasciitis is a result of there being inflammation of a connective tissue band, known as the plantar fascia, which stretches from the heel to the toes."
+          },
+          {
+            "para": "Pain is worse when you start walking after prolonged periods of resting, for example getting out of bed in the morning. For some, exercising and walking may help alleviate the pain, however for others this may exacerbate the pain. For some people there can be no evident cause of this issue but factors such as older age, higher weight, issues with foot and ankle biomechanics, trauma to the foot and those who spend a lot of time on their feet for both occupation and recreational activities. Your physio will take a detailed history in order to diagnose and find out the root cause of your issue before treatment begins. Treatment generally consists of specific exercises to target the painful area and its root cause. Your physio will advise regarding pain management as well which could include prescription of orthotics. As a second line option here at the clinic we also use shockwave therapy which has been proven to provide excellent results when it comes to plantar fasciitis. Plantar fasciitis usually resolves within 6 to 18 months without treatment. With accurate precautions and consistent therapy, the 95% of people with plantar fasciitis are able to recover within 6 months."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on plantar fasciitis conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "wrist",
+      "blogheading": {
+        "blogTitle": "wrist",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "For more information on how physiotherapy can help treat any injuries, or to book an appointment, please contact us via email at office@flexfastphysio.co.uk or call us on"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Carpal tunnel syndrome",
+          "linkhref": "/what-we-treat/wrist/carpal-tunnel-syndrome"
+        }
+      ]
+    },
+    {
+      "herotext": "carpal tunnel syndrome",
+      "blogheading": {
+        "blogTitle": "carpal-tunnel-syndrome",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Plantar fasciitis is the most common cause of pain in the sole of the foot, commonly located around the heel and arch of the foot. In fact, plantar fasciitis is a result of there being inflammation of a connective tissue band, known as the plantar fascia, which stretches from the heel to the toes."
+          },
+          {
+            "para": "Carpal tunnel syndrome affect the nerve (median nerve) that runs through the wrist into the hand. A compression or irritation of the nerve generally causes numbness, pins and needles, pain and burning sensation around the palm of the hand and fingers. In some cases the muscle (thenar eminence) that draws your thumb across towards you little finger can reduce in size. This condition commonly affects middle aged ladies, people who have had a previous wrist injury and those who have diabetes, thyroid conditions and late stage pregnancy. Physiotherapists are able to diagnose this condition and provide you treatment and strategies to manage the symptoms. If the symptoms are not improving physiotherapists will be able to refer on to the appropriate service for further treatment"
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on carpal tunnel syndrome conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "lower leg",
+      "blogheading": {
+        "blogTitle": "lower-leg",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "For more information on how physiotherapy can help treat any injuries, or to book an appointment, please contact us via email at office@flexfastphysio.co.uk or call us on"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Calf muscle injuries",
+          "linkhref": "/what-we-treat/lower-leg/calf-muscle-injuries"
+        },
+        {
+          "linkbtn": "Shin splints (Medial tibial stress syndrome) - MTSS",
+          "linkhref": "/what-we-treat/lower-leg/shin-splints-medial-tibial-stress-syndrome-MTSS"
+        }
+      ]
+    },
+    {
+      "herotext": "calf muscle injuries",
+      "blogheading": {
+        "blogTitle": "calf-muscle-injuries",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "There are two main muscles in your lower leg that help with propelling your body forward during walking, running or climbing stairs. Symptoms of a calf strain link to a sudden increase in pain during an activity, pain when trying to resume an activity or pain on trying to raise up onto your toes. There can be swelling, bruising, stiffness and aching seen and felt."
+          },
+          {
+            "para": "Calf strains are normally caused during activity when you suddenly increase your speed, change direction or over period of time of intense training sessions. Normally seen in adulthood people have a high risk of a calf strain when sprinting, dancing and almost any sport that involve running. Hence calf strains are very common and if there not managed appropriately increases the risk of re-injury."
+          },
+          {
+            "para": "Early management is important to identify the injury, physiotherapists will be able to diagnosis the grade of strain (grade 1, 2 or 3) and provide you with an individualised rehabilitation programme while informing you on realistic time frames of healing and returning to your sports."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on calf-muscle-injuries conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "shin splints medial tibial stress syndrome MTSS",
+      "blogheading": {
+        "blogTitle": "shin-splints-medial-tibial-stress-syndrome-MTSS",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Shin splints is condition that normally effects runners, footballers and dancers. Common symptoms of shin splints include pain and tenderness along the inside of you shin bone, pain with running that reduces at rest, pain at the beginning of your run that can ease and in some cases swelling along shin bone."
+          },
+          {
+            "para": "Common causes of shins splints relate to an increase in running frequency or speed, a decrease in rest between runs and increase of repetitive jumping activities."
+          },
+          {
+            "para": "Generally it effects more females than males and you are at higher risk of developing shin splints if increase in training suddenly, train on hard surfaces and have reduced control of you pelvis and knee movements during activity. Pronation (linked to flat feet) is a normal finding for many people but if you have symptoms of shin splints it can be worth considering how this is contributing to your symptoms."
+          },
+          {
+            "para": "With physiotherapy an assessment of your running gait will be able to identify areas to develop that commonly involves strengthening and stretching exercises in specific areas. Physiotherapists will be able to provide cue’s on adjusting running styles and discuss a graded return with an individualised training programme."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on shin splints medial tibial stress syndrome MTSS conditions, or to book an appointment please call"
       },
       "linkheading": "",
       "links": []
