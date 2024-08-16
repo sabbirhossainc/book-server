@@ -300,6 +300,34 @@
         "authorpost": "Product Designer",
         "body": "Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware."
       }
+    ],
+    "buletins": [
+      {
+        "bulletname": "name",
+        "bulletin": "item-1"
+      },
+      {
+        "bulletname": "name",
+        "bulletin": "item-2"
+      },
+      {
+        "bulletname": "name",
+        "bulletin": "item-3"
+      }
+    ],
+    "marquees": [
+      {
+        "url": "https://res.cloudinary.com/dci00bjtd/image/upload/f_auto,q_auto/hcpc-logo-new_ofgt6j",
+        "link": "https://www.hcpc-uk.org/"
+      },
+      {
+        "url": "https://res.cloudinary.com/dci00bjtd/image/upload/f_auto,q_auto/Physio-First-Logo-Blue-300x281_n7odkq",
+        "link": "https://www.physiofirst.org.uk/"
+      },
+      {
+        "url": "https://res.cloudinary.com/dci00bjtd/image/upload/f_auto,q_auto/new_logo_300_yivhtf",
+        "link": "https://www.csp.org.uk/"
+      }
     ]
   },
   "physioblogs": [
