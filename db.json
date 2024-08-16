@@ -552,10 +552,6 @@
           "linkhref": "/what-we-treat/head/headaches"
         },
         {
-          "linkbtn": "Jaw Fractures",
-          "linkhref": "/what-we-treat/head/jaw-fractures"
-        },
-        {
           "linkbtn": "Jaw Pain",
           "linkhref": "/what-we-treat/head/jaw-pain"
         },
@@ -626,6 +622,10 @@
         {
           "linkbtn": "Text Neck/’Bad Posture’",
           "linkhref": "/what-we-treat/neck/text-Neck-bad-posture"
+        },
+        {
+          "linkbtn": "Stiff Neck",
+          "linkhref": "/what-we-treat/neck/stiff-neck"
         }
       ]
     },
@@ -912,6 +912,75 @@
       "links": []
     },
     {
+      "herotext": "stiff neck",
+      "blogheading": {
+        "blogTitle": "stiff-neck",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "heading": "",
+            "para": "If your neck is painful, you may have difficulty moving it. It is often more difficult to move your head to one side than the other. Many people describe this painful reduction in movement as having a stiff neck."
+          },
+          {
+            "heading": "",
+            "para": "Neck pain may be caused by any of the structures in the neck. These structures include muscles, nerves, bones (vertebrae) and the discs between the vertebrae. Neck pain can originate come from structures near the neck, such as the shoulder, jaw, head, and upper arm."
+          },
+          {
+            "heading": "",
+            "para": "Physiotherapy is a very effective way to treat a stiff neck."
+          },
+          {
+            "heading": "",
+            "para": "A stiff neck is commonly caused by muscular strain or muscular spasm. The cause of this is often postural, sleeping in an awkward position, or performing a sudden movement of the head."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogbody1": {
+        "paras": [
+          {
+            "para": "If you have a stiff neck you should keep it moving as much as possible. If your pain is severe it may be worthwhile arranging to see your doctor or practice nurse for some painkillers and / or anti-inflammatory medication (if appropriate)."
+          },
+          {
+            "para": "If you have a stiff neck you should avoid prolonged postures (such as sitting at a computer, driving for long periods etc.) and other activities that aggravate your pain."
+          },
+          {
+            "para": "Physiotherapy can significantly accelerate your recovery from a stiff neck. Your physiotherapist will diagnose your problem, advise which structures are causing it and determine the severity of your injury. This will enable your physiotherapist to develop an appropriate treatment plan."
+          }
+        ]
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on stiff-neck conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
       "herotext": "shoulder",
       "blogheading": {
         "blogTitle": "shoulder",
@@ -954,12 +1023,8 @@
           "linkhref": "/what-we-treat/shoulder/frozen-shoulder"
         },
         {
-          "linkbtn": "Cervicogenic Headache",
-          "linkhref": "/what-we-treat/shoulder/impingement-syndrome"
-        },
-        {
-          "linkbtn": "Rotator Cuff Tears",
-          "linkhref": "/what-we-treat/shoulder/rotator-cuff-tears"
+          "linkbtn": "Rotator Cuff Injury",
+          "linkhref": "/what-we-treat/shoulder/rotator-cuff-injury"
         },
         {
           "linkbtn": "Shoulder Dislocations & Instability",
@@ -968,6 +1033,14 @@
         {
           "linkbtn": "Acromioclavicular Joint Injuries",
           "linkhref": "/what-we-treat/shoulder/acromioclavicular-joint-injuries"
+        },
+        {
+          "linkbtn": "Shoulder Impingement",
+          "linkhref": "/what-we-treat/shoulder/shoulder-impingement"
+        },
+        {
+          "linkbtn": "Winging Scapula",
+          "linkhref": "/what-we-treat/shoulder/winging-scapula"
         }
       ]
     },
@@ -1061,9 +1134,9 @@
       "links": []
     },
     {
-      "herotext": "rotator cuff tears",
+      "herotext": "rotator cuff injury",
       "blogheading": {
-        "blogTitle": "rotator-cuff-tears",
+        "blogTitle": "rotator-cuff-injury",
         "blogSubTitle": "flexfastphysio.co.uk",
         "addClass": "",
         "body": ""
@@ -1107,7 +1180,7 @@
       },
       "blogfooter": {
         "focus": "0330 088 7800",
-        "footerbody": "If you would like more information on rotator cuff tears, or to book an appointment please call"
+        "footerbody": "If you would like more information on rotator cuff injury, or to book an appointment please call"
       },
       "linkheading": "",
       "links": []
@@ -1197,6 +1270,130 @@
       "blogfooter": {
         "focus": "0330 088 7800",
         "footerbody": "If you would like more information on acromioclavicular joint injuries, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "shoulder impingement",
+      "blogheading": {
+        "blogTitle": "shoulder-impingement",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Impingement syndrome is when the tendons of the muscles in the shoulder become irritated and swollen as they pass through a narrow passage called the subacromial space. Physiotherapy is an excellent way of treating shoulder impingement."
+          },
+          {
+            "para": "Impingement can be caused by overuse of the shoulder, especially repetitive overhead activities and lifting in the gymnasium or at work. Shoulder impingement can also be caused by muscle imbalance of the shoulder."
+          },
+          {
+            "para": "If you suspect that you have an impingement then you should seek treatment as soon as possible. If left untreated shoulder impingement can become more and more painful and debilitating. It may also develop into a 'frozen shoulder.'"
+          },
+          {
+            "para": "Physiotherapy is the preferred treatment choice for impingement of the shoulder. Surgery is not often performed unless a course of physiotherapy has been completed. You physiotherapist may suggest relative rest and tell you to avoid overhead activities. Physiotherapy will focus on reducing your pain, stretching any shortened muscle groups and strengthening weak muscle groups to allow you to return to normal activities as soon as possible."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogbody1": {
+        "paras": [
+          {
+            "para": "Your physiotherapist may also advise that you have a local anaesthetic and a cortisone injection in your shoulder to reduce the inflammation."
+          },
+          {
+            "para": "In the cases in which physiotherapy does not resolve the problem you may be referred for a surgical opinion. The surgeon can widen the subacromial space by removing a piece of bone creating more space for the rotator cuff tendons. This is called a subacromial decompression. Following surgery you will require physiotherapy to allow you to make a full and speedy recovery."
+          }
+        ]
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on shoulder impingement joint injuries, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "winging scapula",
+      "blogheading": {
+        "blogTitle": "winging-scapula",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "A winging scapula occurs when there is a weakness or damage to one of the muscles attached to the scapula."
+          },
+          {
+            "para": "The scapula (shoulder blade) is part of the shoulder and has several muscles that attach to it that stabilise the shoulder and help to move the arm. These muscles work in tandem with each other so if there is a problem with one of the muscles this causes a break in the rhythm of the scapula’s movement known as ‘dysrhythmia’. This can cause the scapula to ‘wing’. This is when the scapula, instead of being flat on the back, points outwards and away from the back."
+          },
+          {
+            "para": "If you suspect that you have an impingement then you should seek treatment as soon as possible. If left untreated shoulder impingement can become more and more painful and debilitating. It may also develop into a 'frozen shoulder.'"
+          },
+          {
+            "para": "If you have or suspect you have a winging scapula, you should avoid using the affected shoulder, especially with heavy loads, until you have received advice from a physiotherapist."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogbody1": {
+        "paras": [
+          {
+            "para": "Your physiotherapist may also advise that you have a local anaesthetic and a cortisone injection in your shoulder to reduce the inflammation."
+          },
+          {
+            "para": "In the cases in which physiotherapy does not resolve the problem you may be referred for a surgical opinion. The surgeon can widen the subacromial space by removing a piece of bone creating more space for the rotator cuff tendons. This is called a subacromial decompression. Following surgery you will require physiotherapy to allow you to make a full and speedy recovery."
+          }
+        ]
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on winging scapula joint injuries, or to book an appointment please call"
       },
       "linkheading": "",
       "links": []
@@ -2075,6 +2272,14 @@
         {
           "linkbtn": "Carpal tunnel syndrome",
           "linkhref": "/what-we-treat/wrist/carpal-tunnel-syndrome"
+        },
+        {
+          "linkbtn": "De Quervain's Tenosynovitis",
+          "linkhref": "/what-we-treat/wrist/de-quervains-tenosynovitis"
+        },
+        {
+          "linkbtn": "Wrist Tendinopathy",
+          "linkhref": "/what-we-treat/wrist/wrist-tendinopathy"
         }
       ]
     },
@@ -2120,6 +2325,130 @@
       "blogfooter": {
         "focus": "0330 088 7800",
         "footerbody": "If you would like more information on carpal tunnel syndrome conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "de quervains tenosynovitis",
+      "blogheading": {
+        "blogTitle": "de-quervains-tenosynovitis",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "De Quervain’s tenosynovitis is an inflammation of the soft tissues surrounding the tendons that move the thumb. Physiotherapy can successfully treat the symptoms of De Quervain’s tenosynovitis."
+          },
+          {
+            "para": "De Quervain’s tenosynovitis is an overuse injury (RSI). The tendons of the thumb start above the wrist and reach the thumb by going around a bony bump on the wrist before crossing the wrist joint. Where the tendons pass around the bony bump they can be rubbed against the bone. Repeated rubbing can result in microtrauma. When the body is repairing the microtrauma the tendons will become in-flammed. If the damage is continued the tendons may change and become more susceptible to injury and pain."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogbody1": {
+        "paras": [
+          {
+            "para": "De Quervain’s tenosynovitis causes pain and tenderness over the thumb tendons as they cross the top of the wrist joint. The tendons may also become swollen. When the thumb and wrist are moved, crepitus (creaking) of the tendons may be felt or heard. "
+          },
+          {
+            "para": "De Quervain’s tenosynovitis generally does not get better on its own. Physiotherapy treatment for De Quervian’s tenosynovitis is very important as if it is left untreated, and you continue to use your thumb and wrist, you will make the problem worse. If you have or suspect you have De Quervain’s tenosynovitis, you should consult Physio.co.uk for treatment. In the meantime, you should avoid activities which aggravate or provoke your pain. These may lead to the further rubbing of the tendons and their surrounding tissues against the bone, worsening of your pain and a prolonged recovery."
+          },
+          {
+            "para": "If you have or suspect that you have De Quervain’s tenosynovitis, you should not ignore the problem. This can lead to your injury getting worse which may prolong your recovery."
+          },
+          {
+            "para": "With the correct physiotherapy treatment De Quervain’s tenosynovitis does not usually produce any long-term effects. The wrong treatment can lead to ongoing pain at the wrist and a prolonged lay-off from participation."
+          }
+        ]
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on de quervains tenosynovitis conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "wrist tendinopathy",
+      "blogheading": {
+        "blogTitle": "wrist-tendinopathy",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Wrist tendinopathy is swelling within one or more of the tendons at the wrist joint. Physiotherapy should be part of your rehabilitation programme for wrist tendinopathy."
+          },
+          {
+            "para": "The tendons in the wrist joint transmit forces produced by the forearm muscles to the hand and fingers. Repetitive use of the hand and fingers can lead to microscopic tears within these tendons. The wrist swells to repair these microscopic tears. The swelling within the tendon is tendinopathy."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogbody1": {
+        "paras": [
+          {
+            "para": "Wrist tendinopathy causes pain within the affected tendon as it crosses the wrist joint. This normally develops gradually. At first, the tendon may only be painful following use. Swelling, creaking and wrist stiffness may also be present. The initial signs of wrist tendinopathy are often ignored, as they disappear quickly with use of the wrist and hand or with heat (i.e. a hot shower) over the wrist. However, without treatment, the tendinopathy can progress and the pain within the tendon may become more intense and gradually more frequent until it is present all of the time."
+          },
+          {
+            "para": "Wrist tendinopathy does not usually get better without physiotherapy treatment. If you have or suspect you have wrist tendinopathy, you should consult a physiotherapist. In the meantime, you can begin initial treatment. This should consist of icing your wrist following periods of activity with a bag of frozen peas or crushed ice wrapped in a moist towel applied for 15–20 minutes."
+          },
+          {
+            "para": "Physiotherapy is very important in the treatment of wrist tendinopathy. Your physiotherapist can diagnose your problem, establish its severity and design an appropriate treatment plan. Treatment may involve activity modification, soft tissue treatment such as massage and stretching, electrotherapy and the progression through a series of specific strengthening exercises. Your physiotherapist will also be able to assess and determine why you developed wrist tendinopathy and address this during your recovery to prevent a re-occurrence when you return to normal activities."
+          },
+          {
+            "para": "If you have or suspect that you have wrist tendinopathy, you should not ignore it. Your pain may get better as you use your hand and wrist; however, using you hand and wrist may interfere with the healing process and cause further damage. If this occurs, your recovery may be prolonged and it may take a number of months for you to make a full recovery."
+          }
+        ]
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on wrist tendinopathy conditions, or to book an appointment please call"
       },
       "linkheading": "",
       "links": []
