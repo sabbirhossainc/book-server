@@ -303,16 +303,16 @@
     ],
     "buletins": [
       {
-        "bulletname": "name",
-        "bulletin": "item-1"
+        "bulletname": "item-1",
+        "bulletin": "annauncement-1"
       },
       {
-        "bulletname": "name",
-        "bulletin": "item-2"
+        "bulletname": "item-2",
+        "bulletin": "annauncement-2"
       },
       {
-        "bulletname": "name",
-        "bulletin": "item-3"
+        "bulletname": "item-3",
+        "bulletin": "annauncement-3"
       }
     ],
     "marquees": [
@@ -333,6 +333,8 @@
   "physioblogs": [
     {
       "herotext": "musculoskeletal",
+      "titlesection": false,
+      "breadcrumb": false,
       "blogheading": {
         "blogTitle": "musculoskeletal",
         "blogSubTitle": "flexfastphysio.co.uk",
@@ -390,9 +392,56 @@
       "links": []
     },
     {
-      "herotext": "what we treat",
+      "herotext": "tendon clinic",
+      "titlesection": false,
+      "breadcrumb": false,
       "blogheading": {
-        "blogTitle": "what we treat",
+        "blogTitle": "tendon-clinic",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": "Here at flex we are a specialist clinic for tendon problems, including repetitive strain, tendonitis, plantar fasciitis, tennis elbow and other related tendon issues. The umbrella term for these problems is ‘tendinopathies’ or ‘fasciopathies’. They are often treated with specific loading exercises, sometimes with massage or other manual therapy and when needed with Shockwave Therapy. All of these approaches are provided by our physiotherapy team who are specially trained in diagnosing and treating tendon issues."
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/background/musculoskeletal-index.png"
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Here at flex we are a specialist clinic for tendon problems, including repetitive strain, tendonitis, plantar fasciitis, tennis elbow and other related tendon issues. The umbrella term for these problems is ‘tendinopathies’ or ‘fasciopathies’. They are often treated with specific loading exercises, sometimes with massage or other manual therapy and when needed with Shockwave Therapy. All of these approaches are provided by our physiotherapy team who are specially trained in diagnosing and treating tendon issues."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "For more information on how physiotherapy can help treat tendon injuries, or to book an appointment, please contact us via email at office@flexfastphysio.co.uk or call us on"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "what we treat",
+      "titlesection": true,
+      "breadcrumb": true,
+      "blogheading": {
+        "blogTitle": "what-we-treat",
         "blogSubTitle": "flexfastphysio.co.uk",
         "addClass": "",
         "body": ""
@@ -477,11 +526,11 @@
         },
         {
           "linkbtn": "Upper back",
-          "linkhref": "/what-we-treat/upperback"
+          "linkhref": "/what-we-treat/upper-back"
         },
         {
           "linkbtn": "Lower back",
-          "linkhref": "/what-we-treat/lowerback"
+          "linkhref": "/what-we-treat/lower-back"
         },
         {
           "linkbtn": "Buttock",
@@ -509,7 +558,7 @@
         },
         {
           "linkbtn": "Upper leg",
-          "linkhref": "/what-we-treat/upperleg"
+          "linkhref": "/what-we-treat/upper-leg"
         },
         {
           "linkbtn": "Lower leg",
@@ -524,6 +573,829 @@
           "linkhref": "/what-we-treat/foot"
         }
       ]
+    },
+    {
+      "herotext": "buttock",
+      "blogheading": {
+        "blogTitle": "buttock",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on buttock conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Coccydynia",
+          "linkhref": "/what-we-treat/buttock/coccydynia"
+        },
+        {
+          "linkbtn": "Gluteus Strain",
+          "linkhref": "/what-we-treat/buttock/gluteus-strain"
+        },
+        {
+          "linkbtn": "Hamstrings Origin Tendinitis",
+          "linkhref": "/what-we-treat/buttock/hamstrings-origin-tendinitis"
+        },
+        {
+          "linkbtn": "Ischiogluteal Bursitis",
+          "linkhref": "/what-we-treat/buttock/ischiogluteal-bursitis"
+        },
+        {
+          "linkbtn": "Piriformis Syndrome",
+          "linkhref": "/what-we-treat/buttock/piriformis-syndrome"
+        },
+        {
+          "linkbtn": "Referred Pain",
+          "linkhref": "/what-we-treat/buttock/referred-pain"
+        }
+      ]
+    },
+    {
+      "herotext": "coccydynia",
+      "blogheading": {
+        "blogTitle": "coccydynia",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Coccydynia is pain in the coccyx area (tailbone) of the spine. Physiotherapy can successfully treat the symptoms of coccydynia."
+          },
+          {
+            "para": "There are a number of causes of coccydynia. The most common cause is landing on a hard surface and damaging the coccyx. Other causes includeoveruse of the some of the muscle surrounding the coccyx including the gluteals, piriformis and adductors. If these muscles go into severe spasm, this may pull on the coccyx to cause coccydynia."
+          },
+          {
+            "para": "If you are experiencing any of the symptoms of coccydynia, it is important to see a physiotherapist as soon as possible. They will be able to carry out a comprehensive assessment and provide you with an accurate diagnosis of your injury. Icing the area with a bag of frozen peas wrapped in a wet towel or an ice pack will help to reduce the pain and any swelling. You should stop any activities that will aggravate your symptoms and this may mean temporarily stopping your usual sports or hobbies while you recover."
+          },
+          {
+            "para": "Your physiotherapy will include a progressive stretching and strengthening programme that will be specifically developed by the physiotherapist to suit your needs and goals. Other treatments will include massage and soft tissue techniques to reduce any muscle spasm."
+          },
+          {
+            "para": "Do not continue with your normal activities and sports if these make the symptoms worse and flare up. This will delay your recovery and it will be more difficult for you to return to your usual hobbies. However, it is also important not to rest from activity altogether, and this is why physiotherapy is an effective way of helping you to pace your rehabilitation."
+          },
+          {
+            "para": "If your symptoms to do subside after a period of physiotherapy, it may be necessary to have a corticosteroid injection to help relieve pain and inflammation. If this is the case, it is still important to continue with your physiotherapy programme to optimise the benefits of the injection."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on coccydynia conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "gluteus-strain",
+      "blogheading": {
+        "blogTitle": "gluteus-strain",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "A gluteal strain is a tear in one of the gluteal muscles."
+          },
+          {
+            "para": "The gluteal muscles are the muscles that make up the buttocks. Each buttock is made up of three different gluteal muscles; gluteus maximums, gluteus medius and gluteus minimus. A gluteal strain is when there is a tear in one or more of these muscles."
+          },
+          {
+            "para": "The gluteal muscles are used to straighten the hip and to help stabilize movements of the hip. To do this they need to contract, which involves the muscle rapidly shortening. If there is too much force or repetitive force through the contraction, then the muscle can tear which is known as a strain. The chance of this happening is increased if the muscle is being stretched when the contraction occurs. Gluteal strains are uncommon but are more likely to occur during sport, especially in running and jumping games such as athletics or football."
+          },
+          {
+            "para": "A sudden, sharp pain in the buttocks is usually felt when the strain occurs. Pain will be felt immediately after and may reduce over time. However pain is likely to be felt on activity that uses the gluteal muscles such as jogging, using stairs or jumping. Some pain may even be felt on walking. "
+          },
+          {
+            "para": "If you have or suspect you have a gluteal strain, you should rest the muscle. You should consult a physiotherapist as it is important to rehabilitate the muscle and to return to normal function. You can also ice the muscle using a bag of frozen peas or crushed ice wrapped in a damp cloth for 15–20 minutes over the muscle every 1–2 hours."
+          },
+          {
+            "para": "If you have or suspect you have a gluteal strain, you should not ignore the problem and continue to exercise. This is likely to damage the muscle further so activities such as walking long distances or using stairs should be avoided."
+          },
+          {
+            "para": "After the initial resting and use of ice, it is important to rehabilitate the damaged muscle. Physiotherapy is vital to achieve this. If the muscle damage is very severe it may be necessary for crutches to be used for a short period of time to reduce strain on the muscle and accelerate the healing process. Early rehabilitation of the muscle will involve performing movements that involve the muscle, before moving on to some resisted movements. Later rehabilitation will involve starting activities that use the muscle such as jogging and climbing stairs, before progressing on to running and jumping."
+          },
+          {
+            "para": "If it is properly treated and rehabilitated then there should be no long term effects from a gluteal strain. However if it is not properly rehabilitated then it is likely to re-occur and the problem can become chronic. This results in longer healing times causing pain to last for longer and the frequency of re-occurrence to increase."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on gluteus-strain conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "hamstrings origin tendinitis",
+      "blogheading": {
+        "blogTitle": "hamstrings-origin-tendinitis",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Hamstring origin tendinitis is damage and inflammation of the hamstring tendon where it inserts into the back of the pelvis (ishial tuberosity). Physiotherapy is an effective treatment for hamstring origin tendinitis."
+          },
+          {
+            "para": "The hamstrings work together to flex (bend) the knee and extend (straighten) the hip. Hamstring origin tendinitis is commonly caused by powerful and explosive movements of the lower limb such as running, jumping and kicking as this places extra strain on the hamstring muscles."
+          },
+          {
+            "para": "The main symptoms of hamstring origin tendinitis are intense and deep pain in the lower buttock area which is where the ishialtuberosities are located and where the hamstring tendon is found. The pain is often aggravated by jumping and kicking actions and you may find it difficult to run and sprint."
+          },
+          {
+            "para": "Physiotherapy is a very effective way of treating hamstring origin tendinitis and you should go and see a physiotherapist as soon as you notice any of the above symptoms. Ice and compression with a bandage may temporarily reduce pain and swelling but you will need to begin a comprehensive rehabilitation programme to specifically treat the problem."
+          },
+          {
+            "para": "It is important to begin a personalised strengthening and stretching programme with your physiotherapistas soon as you notice symptoms of hamstring origin tendinitis. This will help you gradually return to your normal activities and sports at the correct pace."
+          },
+          {
+            "para": "You should not continue with any activities that have been aggravating your symptoms. This will delay your rehabilitation and could make the injury more chronic and difficult to resolve. Do not try to treat the condition yourself as it is important to receive a professional diagnosis to provide you with the best treatment plan."
+          },
+          {
+            "para": "Hamstring origin tendinitis can be successfully treated with physiotherapy without any long-term complications if the treatment programme is personalised and appropriate to your needs. If the symptoms are left untreated, there is a high risk that the injury will become chronic and therefore need more persistent and long-term treatment."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on hamstrings origin tendinitis conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "ischiogluteal bursitis",
+      "blogheading": {
+        "blogTitle": "ischiogluteal-bursitis",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "A bursa is a fluid-filled sac, which reduces friction and, therefore, irritation within the tissues of the body by allowing them to easily slide over one another. Ischiogluteal bursitis is the inflammation of one of these sacs. The ischiogluteal bursae are located beneath the origin of the hamstring muscles, just below the crease of your buttock. Physiotherapy is an effective treatment to reduce symptoms of ischiogluteal bursitis."
+          },
+          {
+            "para": "Ischiogluteal bursitis occurs when the ischiogluteal bursa is damaged or irritated. Irritation can be caused by a direct blow to the bursa such as falling on a hard surface. This can damage blood vessels within the ischiogluteal bursa and cause an inflammatory response, resulting in swelling of the bursa and, therefore, bursitis."
+          },
+          {
+            "para": "Ischiogluteal bursitis can also be caused by repeated minor trauma. This can occur with sitting for a prolonged period on a hard surface. This type of ischiogluteal bursitis is commonly referred as ‘weaver’s bottom’. Sitting for a prolonged period can increase wear and tear on the bursa causing microtrauma. Over time, this can result in bursal thickening, inflammation and bursitis. This can also occur with tight muscles around the bursa. The ischiogluteal bursa works to allow the gluteal and hamstring muscles to slide smoothly and without friction over the nearby bone (ischial tuberosity). When these muscles are excessively tight, they place increased pressure and friction on the bursa, resulting in bursitis."
+          },
+          {
+            "para": "Ischiogluteal bursitis generally causes a dull ache in the buttock that may become sharp with movements of the hip joint. The pain may radiate down the outside of the thigh and is often aggravated by activities such as walking, running, or stair climbing. Similarly, it is also often aggravated by sitting, which compresses the bursa against the adjacent bone."
+          },
+          {
+            "para": "If you have ischiogluteal bursitis, it is advised you avoid activities that aggravate your pain and seek the assistance of a sports medicine professional to establish its cause. If the cause of the bursitis is not addressed, the pain may dissipate when you rest, only to return as soon as you recommence activity."
+          },
+          {
+            "para": "The assistance of a sports medicine professional is important in the treatment of ischiogluteal bursitis. They will be able to confirm your diagnosis and use a number of treatment techniques to reduce your pain. In some situations, this may involve draining the bursa, using anti-inflammatory medications or injecting a small quantity of an anti-inflammatory directly into the bursa to stimulate healing. More importantly, the sports medicine professional will be able to determine the cause of irritation on the bursa. Addressing this primary problem as your pain settles will help prevent a re-occurrence when you return to activity."
+          },
+          {
+            "para": "If you have ischiogluteal bursitis, you should not continue with activities which aggravate your pain or make it worse. These will increase friction on the bursa, further irritating it, and possibly delay your recovery."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on ischiogluteal bursitis conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "piriformis syndrome",
+      "blogheading": {
+        "blogTitle": "piriformis-syndrome",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "A piriformis strain is a tear in one or more of the muscles fibres that make up the piriformis muscle. Physiotherapy can successfully treat the symptoms of a piriformis strain."
+          },
+          {
+            "para": "The piriformis is a deep muscle in the hip area that connects from the sacrum to the femur. It acts to rotate and abduct the hip and therefore is a very important stabilising muscle. Piriformis strains often occur due to overuse injuries and repeated jumping, sprinting and lunging actions."
+          },
+          {
+            "para": "A deep ache or pain is commonly felt in the buttocks area and this can sometimes be experienced in the back of the thigh, leg and foot. It may be difficult to climb stairs, change directions and perform jumping or squatting movements. The area can be tender to touch and the more superficial muscles such as gluteus maximus may go into spasm."
+          },
+          {
+            "para": "If you suspect you may have a piriformis strain, you should see a physiotherapist as soon as possible. They can provide you with a full assessment and be able to accurately diagnose your injury in order to develop a treatment plan for you. Ice packs or frozen peas wrapped in a wet towel may reduce the pain and any swelling around the area. In more serious injuries, an MRI scan may be necessary to confirm the diagnosis."
+          },
+          {
+            "para": "The main physiotherapy treatment for a piriformis strain is a personalised strengthening and stretching programme. This will be developed by your physiotherapy depending on your current abilities and goals. Other treatments include massage and electrotherapy techniques such as ultrasound, to reduce the pain and optimise the healing process."
+          },
+          {
+            "para": "If you notice any of the above symptoms and think you have a strained piriformis muscle, you should immediately stop any of the activities that aggravate your symptoms. This includes jumping, sprinting and lunging movements which may be key features of your sport or hobbies. Do not ignore your symptoms as this will delay your recovery and could potentially make the injury more chronic (long-term) and difficult to resolve."
+          },
+          {
+            "para": "If you do not begin a physiotherapy programme as soon as you start noticing symptoms of a piriformis strain, your injury is likely to become chronic and more persistent. This will lengthen the duration of your rehabilitation and it will take you longer to return to your sport or hobbies."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on piriformis-syndrome conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "referred pain",
+      "blogheading": {
+        "blogTitle": "referred-pain",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Referred pain is pain that originates in one part of the body that is also experienced in other areas. Physiotherapy is an excellent way of treating and reducing referred pain."
+          },
+          {
+            "para": "Referred pain usually stems from the neck or back. There are a number of nerves that originate from the spine and supply different muscles in the body. If one or more of these nerves are damaged, this can cause referred pain in the corresponding area. Referred pain can be caused by a number of reasons including arthritis, trauma and disc prolapses."
+          },
+          {
+            "para": "You may experience pain in any of the areas that the affected nerves supply. Symptoms could also include pins and needles, numbness or weakness in those muscles. You may also find that an area becomes very sensitive to touch (hypersensitivity)."
+          },
+          {
+            "para": "It is important to establish where the pain is coming from. You may need to have additional investigations before physiotherapy can begin. This could include a scan or x-ray to provide you with an accurate diagnosis."
+          },
+          {
+            "para": "There are a number of options that may be suitable to treat your referred pain. Your physiotherapist will devise you a programme that is specific to your needs and help you return to an active lifestyle."
+          },
+          {
+            "para": "If you think you may have referred pain, you should not ignore your symptoms or attempt to treat the condition yourself. This could delay your recovery and make it more difficult for you return to your normal activities of daily living."
+          },
+          {
+            "para": "The length of rehabilitation of referred pain depends on the severity of the condition. You will be informed this when you are told the diagnosis."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on referred pain conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "upper back",
+      "blogheading": {
+        "blogTitle": "upper-back",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on upper back conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Muscular Spasm",
+          "linkhref": "/what-we-treat/upper-back/muscular-spasm"
+        },
+        {
+          "linkbtn": "Postural Kyphosis",
+          "linkhref": "/what-we-treat/upper-back/postural-kyphosis"
+        },
+        {
+          "linkbtn": "Thoracic Spondylosis",
+          "linkhref": "/what-we-treat/upper-back/thoracic-spondylosis"
+        }
+      ]
+    },
+    {
+      "herotext": "muscular spasm",
+      "blogheading": {
+        "blogTitle": "muscular-spasm",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Muscle spasm is involuntary contraction of a muscle and this commonly occurs in large muscle groups including those in the upper back. Physiotherapy is an excellent treatment of muscular spasm in the lower back."
+          },
+          {
+            "para": "Muscle spasm is the body’s response to try and prevent movement and is therefore an important protective mechanism. Muscle spasm commonly occurs following a bending, twisting or heavy lifting injuries. Muscle spasm can also be seen surrounding an injured area including fractures or nerve injuries to protect the area and minimise further movement."
+          },
+          {
+            "para": "You will experience pain and cramp or stiffness in the affected muscle. This is often in the upper back area and may extend to the neck and shoulders. Redness and swelling may be visible and you could find it difficult to move the area without significant pain and discomfort. You may find it difficult to get comfortable especially when lying down and at night which may disrupt your sleep."
+          },
+          {
+            "para": "If you notice symptoms of muscle spasm, physiotherapy is a very effective way of reducing your pain and helping you return to an active lifestyle. It may be beneficial to ice the area with frozen peas wrapped in a wet tea towel or an ice pack to help reduce the pain and swelling. You should begin a physiotherapy programme as soon as possible to optimise your recovery."
+          },
+          {
+            "para": "If you suspect you might have muscle spasm in your upper back, you should not try and treat the condition yourself. Although it is a relatively straightforward condition, it is important that you receive professional advice from your physiotherapist who can give you advice on which activities to do and which should not be done at this stage. You should try and avoid excessive movements such as twisting and heavy lifting as this will make the problem worse."
+          },
+          {
+            "para": "You will be shown effective range of movement and strengthening exercises and hydrotherapy may be used with your exercise programme. Electrotherapy techniques such as ultrasound and Megapulse can be used to reduce pain and facilitate the healing process of the affected muscle. Massage will be used to reduce the spasm and help restore normal movement."
+          },
+          {
+            "para": "With an effective treatment programme, muscle spasm can be resolved reasonably easily with physiotherapy. If the symptoms are ignored, recovery is likely to be longer and there could be lasting complications with the function of your muscles. Physiotherapy can also help with more chronic muscle spasm problems although this type of treatment will take longer."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on muscular spasm conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "postural kyphosis",
+      "blogheading": {
+        "blogTitle": "postural-kyphosis",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "A kyphosis is the natural outward curve of the thoracic spine (upper back) which helps to provide support and movement to the spine. When this curve over-exaggerated because of poor posture this is known as postural kyphosis. Physiotherapy is an excellent treatment of postural kyphosis."
+          },
+          {
+            "para": "Poor standing postures and slouched sitting positions for long period of time causes extra strain on the joints and soft tissue structures of the upper back, neck and shoulders. The structures commonly affected includes muscles, ligaments and tendons. These postures are common in office workers and individuals whose jobs involve long periods of driving and sitting. Postural kyphosis is also common in athletes who have to maintain these postures for long periods of time such as cyclists, lacrosse and hockey players."
+          },
+          {
+            "para": "Symptoms of postural kyphosis usually only occurs if poor posture is maintained for a long period of time and not during normal everyday activities. Pain and stiffness may be felt in the upper back and neck regions and muscle spasm may be seen around these areas. Aching or burning feelings are also common and these are usually reduced with a change in position."
+          },
+          {
+            "para": "Physiotherapy can successfully correct poor posture and therefore minimise your symptoms and help you return to a normal active lifestyle. You should avoid activities that encourage a poor posture and remember to actively correct your posture. It is important that you take regular breaks from long periods of sitting or standing to help mobilise your spine."
+          },
+          {
+            "para": "You should not ignore your symptoms if you think you may have postural kyphosis. The longer the poor posture continues, the more difficult it will become to rectify the situation. You should try not to sit or stand for long periods at a time and if this has to be done at work, ensure that you have regular changes in position."
+          },
+          {
+            "para": "Heat rubs and hydrotherapy are useful to reduce muscle spasm and pain. Gradual range of movement and strengthening exercises are used in combination with postural exercises and advice. An ergonomic assessment in your workplace will help you be aware of your posture at work and whether you have the correct seating and desk height to encourage a good posture."
+          },
+          {
+            "para": "The longer you ignore symptoms of postural kyphosis, the longer it will take to achieve a successful postural correction. If the symptoms become very severe, there may be added pressure on nearby nerves causing neurological symptoms such as pins and needles, numbness and weakness in certain muscle groups. These symptoms are more persistent and difficult to resolve. Physiotherapy can help with all of these symptoms."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on postural kyphosis conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "thoracic spondylosis",
+      "blogheading": {
+        "blogTitle": "thoracic-spondylosis",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Thoracic spondylosis is a form of osteoarthritis in the thoracic spine (upper back). Physiotherapy is an effective treatment for thoracic spondylosis."
+          },
+          {
+            "para": "Thoracic spondylosis is caused by wear and tear of the vertebrae and the shock absorbing discs between each vertebrae bone. As we get older, the discs dry out and extra bone often gathers around the vertebrae (osteophytes) which can irritate some of the structures around the spine. Thoracic spondylosis is more common over the age of seventy or if you have had an injury to the spine when you were younger."
+          },
+          {
+            "para": "You will often experience stiffness in the upper back especially when trying to turn around and reaching for objects. You may also find these movements painful. If a nerve becomes trapped or irritated you may experience neurological symptoms including weakness and pins and needles on your back, stomach area or arms. You may feel weaker in these areas and find it difficult to carry out your normal activities of daily living. "
+          },
+          {
+            "para": "If you think you may have thoracic spondylosis, you should visit a physiotherapist as soon as possible who will help you reduce your symptoms. You may also need to see your GP for some painkillers to help you keep the spine moving."
+          },
+          {
+            "para": "You should not ignore your symptoms if you think your problem may be thoracic spondylosis. The longer you leave it, the more likely your condition will progress and you symptoms will become more debilitating."
+          },
+          {
+            "para": "There are a number of physiotherapy treatments that your physiotherapist can offer you to treat thoracic spondylosis. You may receive cryotherapy (ice) or heat to reduce any pain that you have and will be given a series of exercises to improve the range of movement at the thoracic spine. Your home exercise programme will also include specific exercises to strengthen the area which will help minimise your symptoms. Massage and postural advice can be offered to manage your condition"
+          },
+          {
+            "para": "If you ignore the problem, your symptoms are likely to get worse and cause a lot of pain and stiffness in your upper back. If you do not seek professional help, the thoracic spondylosis could lead to neurological symptoms including weakness and numbness of the upper back and stomach which are more persistent."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on thoracic-spondylosis conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "lower back",
+      "blogheading": {
+        "blogTitle": "lower-back",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on lower leg conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Lumbar Ridiculopathy",
+          "linkhref": "/what-we-treat/lower-back/lumbar-ridiculopathy"
+        },
+        {
+          "linkbtn": "Piriformis Syndrome",
+          "linkhref": "/what-we-treat/lower-back/piriformis-syndrome"
+        }
+      ]
+    },
+    {
+      "herotext": "lumbar ridiculopathy",
+      "blogheading": {
+        "blogTitle": "lumbar-ridiculopathy",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Lumbar ridiculopathy occurs when there is an impingement of a nerve in the lower back. This can cause pain, weakness and neurological symptoms such as numbness or pins and needles."
+          },
+          {
+            "para": "Lumbar ridiculopathy is caused by a change in the structure of the lumbar spine (lower back) which creates compression of a nerve. This compression causes symptoms."
+          },
+          {
+            "para": "Physiotherapy can resolve symptoms in most cases and a full recovery can be made. If physiotherapy is not effective then injections can be used to treat the problem. If this is also unsuccessful then surgery can be used to correct the problem. Physiotherapy is important in rehabilitation from surgery."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on mechanical lumbar ridiculopathy conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
+    },
+    {
+      "herotext": "piriformis syndrome",
+      "blogheading": {
+        "blogTitle": "piriformis-syndrome",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "The piriformis is a small muscle that lies deep in the buttock. It runs from the base of your spine and attaches to the thigh bone (femur) on the outside of your buttock. A large nerve called the sciatic nerve runs very close to, and sometimes through, the piriformis muscle. Pain that radiates down one leg (sciatica) can be caused if the piriformis compresses or irritates the nerve. Physiotherapy can effectively treat piriformis syndrome."
+          },
+          {
+            "para": "Piriformis syndrome is caused by tightening of the piriformis muscle. This tightening may be caused by other tight muscles groups putting strain on the piriformis or other weak muscles that cause the piriformis to perform roles that it is not designed to do. Piriformis syndrome can also be caused by stiffness in the joints between the pelvis and the lower back or pronated (or flat) feet."
+          },
+          {
+            "para": "Piriformis syndrome causes compression of the sciatic nerve. This compression can cause a deep aching pain in the buttock and down the leg (also known as sciatica). This pain is often combined with tingling or numbness down the leg. The pain may worsen if the hip is moved to its extremes of movement, particularly if the hip is rotated so the toe is pointing inwards. Changing direction whilst running can also be particularly painful."
+          },
+          {
+            "para": "If you have or suspect you have piriformis syndrome, you should arrange an appointment with a physiotherapist as soon as possible."
+          },
+          {
+            "para": "Physiotherapy is essential in the treatment of piriformis syndrome. Initially, your physiotherapist can diagnose your problem and establish its severity. From this, your physiotherapist will devise treatment plan to reduce your symptoms by targeting the cause of your piriformis syndrome."
+          },
+          {
+            "para": "If you have or suspect you have piriformis syndrome, you shouldn’t ignore the problem and continue as normal. If you ignore piriformis syndrome your condition may deteriorate causing a prolonged recovery."
+          },
+          {
+            "para": "A piriformis condition does not produce any long-term effects, if it is properly diagnosed and treated appropriately. Recovery normally takes place within a number of weeks."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/neck/neck2.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "If you would like more information on mechanical piriformis syndrome conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
     },
     {
       "herotext": "head",
@@ -2632,6 +3504,8 @@
     },
     {
       "herotext": "appointments",
+      "titlesection": false,
+      "breadcrumb": false,
       "blogheading": {
         "blogTitle": "appointments",
         "blogSubTitle": "Book appointments at flexfastphysio.co.uk",
