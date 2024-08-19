@@ -303,16 +303,12 @@
     ],
     "buletins": [
       {
-        "bulletname": "item-1",
-        "bulletin": "annauncement-1"
+        "bulletname": "*Special Offer:",
+        "bulletin": "📢 £5 OFF Your First Booking This August! 🎉"
       },
       {
-        "bulletname": "item-2",
-        "bulletin": "annauncement-2"
-      },
-      {
-        "bulletname": "item-3",
-        "bulletin": "annauncement-3"
+        "bulletname": "*Special Offer:",
+        "bulletin": "📢 £5 OFF Your First Booking This August! 🎉"
       }
     ],
     "marquees": [
