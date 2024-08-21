@@ -229,8 +229,9 @@
       "id": 7
     }
   ],
-  "global": {
+"global": {
     "sitename": "flex fast physio",
+    "phone": "+44 747 473 0285",
     "sitedomain": "flexfastphysio.co.uk",
     "logo": "https://res.cloudinary.com/dci00bjtd/image/upload/f_auto,q_auto/v1/images/logo_bbeuz2",
     "devinfo": "https://github.com/sabbirhossainc",
@@ -238,20 +239,23 @@
       {
         "url": "https://res.cloudinary.com/dci00bjtd/image/upload/f_auto,q_auto/card-1_f1php3",
         "alt": "card-1",
-        "heading": "OSTEOPATHY",
-        "body": "Osteopathy is a system of assessment and physical treatment for a wide range of medical conditions. Osteopaths work to encourage your body to a state of balance by the use of touch, soft tissue stretching massage, stretching and manipulation."
+        "heading": "tendon clinic",
+        "body": "Here at flex fast physio has a specialist clinic for tendon issues, including repetitive strain, tendonitis, plantar fasciitis, tennis elbow and other related tendon issues. The umbrella term for these problems is ‘tendinopathies’ or ‘fasciopathies’. They are often treated with specific loading exercises, sometimes with massage or other manual therapy and when needed with Shockwave Therapy. All of these approaches are provided by our physiotherapy team who are specially trained in diagnosing and treating tendon issues.",
+        "href":"/tendon-clinic"
       },
       {
         "url": "https://res.cloudinary.com/dci00bjtd/image/upload/f_auto,q_auto/card-2_tju8gh",
         "alt": "card-2",
-        "heading": "SPORTS MASSAGE",
-        "body": "We provide sports massage that can improve circulation and enhance lymphatic flow. Each treatment provided specifically aimed at meeting your individuals needs, work to encourage your body to a state of balance by the use of touch."
+        "heading": "soft tissue massage",
+        "body": "Specific Soft Tissue Massage (SSTM), Deep Soft Tissue Massage (DSTM),   and Myofascial Release (MFR) are treatment techniques widely used by physiotherapists aimed at assessing the soft tissues of the body and treating them accordingly through hands on treatment.Specific Soft Tissue Massage is a specific type of massage.  It aims to; relax muscles, decrease spasms and relieve muscle tension improve the healing time of strained muscular tissue by increasing the blood circulation and lymph flow reduced the inflammation of joints and heart rate improve joint range of motion and flexibility increase endorphins and strengthen the immune system There are several types of SSTM.",
+"href":"/soft-tissue-massage"
       },
       {
         "url": "https://res.cloudinary.com/dci00bjtd/image/upload/f_auto,q_auto/card-3_sfn9go",
         "alt": "card-3",
-        "heading": "PHYSIOTHERAPY",
-        "body": "Our team has clinical experience of working with some of the most successful British athletes and sportspeople across a range of sporting disciplines. Whether recovering from an injury or using Physiotherapy to enable you to compete at your best "
+        "heading": "musculoskeletal",
+        "body": "Musculoskeletal physiotherapy will focus on the biomechanical and structural rehabilitation of the client. With targeted goals to maximise the individual’s functional movement so they can return to normal daily activities. This type of therapy is most commonly used to address accidental injuries, sports injuries and resolving physical impairment due to lifestyle and ageing.",
+"href":"/musculoskeletal"
       }
     ],
     "bannerimages": [
@@ -349,7 +353,7 @@
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/replace_me/respiratory-problems1.jpg"
+        "src": ""
       },
       "blogbody": {
         "paras": [
@@ -378,7 +382,7 @@
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+        "src": ""
       },
       "blogfooter": {
         "focus": "0330 088 7800",
@@ -424,6 +428,57 @@
         "width": "",
         "height": "",
         "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+      },
+      "blogfooter": {
+        "focus": "0330 088 7800",
+        "footerbody": "For more information on how physiotherapy can help treat tendon injuries, or to book an appointment, please contact us via email at office@flexfastphysio.co.uk or call us on"
+      },
+      "linkheading": "",
+      "links": []
+    },
+{
+      "herotext": "soft tissue massage",
+      "titlesection": false,
+      "breadcrumb": false,
+      "blogheading": {
+        "blogTitle": "soft-tissue-massage",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": "Specific Soft Tissue Massage (SSTM), Deep Soft Tissue Massage (DSTM),   and Myofascial Release (MFR) are treatment techniques widely used by physiotherapists aimed at assessing the soft tissues of the body and treating them accordingly through hands on treatment."
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://www.physio.co.uk/images/background/musculoskeletal-index.png"
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Specific Soft Tissue Massage is a specific type of massage.  It aims to; relax muscles, decrease spasms and relieve muscle tension improve the healing time of strained muscular tissue by increasing the blood circulation and lymph flow reduced the inflammation of joints and heart rate improve joint range of motion and flexibility increase endorphins and strengthen the immune system"
+          },
+{
+            "para": "There are several types of SSTM. Physiotherapists in particular use, Trigger Point Release – provides relief from chronic muscle pain.  It targets the muscle and promotes flexibility of the body's connective tissue Frictioning – creates heat and increases blood flow that in turn promotes healing to an injured area Myofascial Release is a form of massage that enables the physiotherapist to feel and slowly stretch into the body's fascial network. Fascia, sometimes called fibrous bands or connective tissue, is a 3D continuous web of microscopic hollow tubules that extends without interruption from the top of the head to the tip of the toes. It surrounds, infuses and protects every other tissue, tendon, muscle, bone, ligament and organ in the body."
+          },
+{
+            "para": "Following all physical and emotional trauma, and even through poor posture, fascia can scar and harden in the affected area and along the tension lines imposed on it. As a result the fascial network loses its cushioning mechanism. The sustained, gentle pressure provided through MFR allows the fascia to return to its normal resting length, thereby restoring health and providing results that are both measurable and functional."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
       },
       "blogfooter": {
         "focus": "0330 088 7800",
@@ -480,7 +535,7 @@
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/musculoskeletal-physiotherapy/musculoskeletal-physiotherapy1.jpg"
+        "src": ""
       },
       "blogfooter": {
         "focus": "0330 088 7800",
