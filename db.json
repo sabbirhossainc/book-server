@@ -3668,7 +3668,7 @@
         "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/background/appointments-index.png"
+        "src": "https://res.cloudinary.com/dpaazjo3z/image/upload/f_auto,q_auto/v1/asset/appointment/appointment"
       },
       "imginfo1": {
         "alt": "",
@@ -3686,10 +3686,10 @@
       },
       "imginfo2": {
         "alt": "",
-        "addClass": "rounded-lg object-cover object-bottom h-full w-full",
+        "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://www.physio.co.uk/images/appointments/appointments.jpg"
+        "src": ""
       },
       "blogfooter": {
         "focus": "",
