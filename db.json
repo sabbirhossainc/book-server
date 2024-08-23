@@ -558,15 +558,11 @@
         },
         {
           "linkbtn": "Upper arm",
-          "linkhref": "/what-we-treat/upperarm"
+          "linkhref": "/what-we-treat/upper-arm"
         },
         {
           "linkbtn": "Elbow",
           "linkhref": "/what-we-treat/elbow"
-        },
-        {
-          "linkbtn": "Forearm",
-          "linkhref": "/what-we-treat/forearm"
         },
         {
           "linkbtn": "Wrist",
@@ -625,6 +621,108 @@
           "linkhref": "/what-we-treat/foot"
         }
       ]
+    },
+    {
+      "herotext": "upper arm",
+      "blogheading": {
+        "blogTitle": "upper-arm",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://res.cloudinary.com/dpaazjo3z/image/upload/f_auto,q_auto/v1/asset/upper-arm/upper-arm"
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": []
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogfooter": {
+        "focus": "+44 747 473 0285",
+        "footerbody": "If you would like more information on upper arm conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": [
+        {
+          "linkbtn": "Biceps Tendinopathy",
+          "linkhref": "/what-we-treat/upper-arm/biceps-tendinopathy"
+        }
+      ]
+    },
+    {
+      "herotext": "biceps tendinopathy",
+      "blogheading": {
+        "blogTitle": "biceps-tendinopathy",
+        "blogSubTitle": "flexfastphysio.co.uk",
+        "addClass": "",
+        "body": ""
+      },
+      "imginfo0": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": "https://res.cloudinary.com/dpaazjo3z/image/upload/f_auto,q_auto/v1/asset/upper-arm/biceps-tendinopathy"
+      },
+      "imginfo1": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogbody": {
+        "paras": [
+          {
+            "para": "Biceps tendinopathy is inflammation within the tendon which connects the biceps muscle on the front of the upper arm with the shoulder. Physiotherapy is a very effective way of treating biceps tedino pathy."
+          },
+          {
+            "para": "Biceps tendinopathy is usually caused by from overuse of the biceps tendon. Repetitive use of the biceps muscle and, therefore, the biceps tendon can cause microscopic tears within the tendon. These tears cause inflammation. This inflammation within the tendon is tendinopathy."
+          },
+          {
+            "para": "Biceps tendinopathy causes gradual onset of pain in the top of the upper arm. At first this pain may only be present after exercise. You may also experience stiffness and / or tightness in your shoulder. The initial signs of biceps tendinopathy are often ignored as they disappear quickly with use of the arm or applying heat (i.e. a hot shower) over the shoulder and upper arm. However, without treatment, the tendinopathy can progress and the pain within the tendon can become more intense and more frequent. At this stage the pain may be present during exercise. In the earlier stages, this pain during participation may initially disappear as you warm-up, only to return after exercise. However, as you continue to exercise, the tendinopathy worsens and your pain may begin to be present for longer periods during exercise until it is present all of the time."
+          },
+          {
+            "para": "Biceps tendinopathy generally does not get better on its own if the cause is not addressed and you continue to exercise. If you have or suspect you have biceps tendinopathy, you should arrange a physiotherapy appointment with Physio.co.uk. In the meantime you can begin initial treatment. This should consist of icing following participation. You should apply crushed ice wrapped in a moist towel over the sore site for 15-20 minutes."
+          },
+          {
+            "para": "If you have or suspect you have biceps tendinopathy you shouldn’t ignore it. Your pain may get better as you exercise, however, the exercise you are doing may be interfering with the healing process and causing further damage. This can lead to your injury getting worse. If this occurs, your recovery may be prolonged and it may take a number of weeks or months for you to return to full fitness."
+          },
+          {
+            "para": "Biceps tendinopathy does not produce any long-term effects if it is properly diagnosed and appropriately treated. If not, it can lead to prolonged pain in the upper arm and a prolonged lay-off from exercise."
+          }
+        ]
+      },
+      "imginfo2": {
+        "alt": "",
+        "addClass": "",
+        "width": "",
+        "height": "",
+        "src": ""
+      },
+      "blogfooter": {
+        "focus": "+44 747 473 0285",
+        "footerbody": "If you would like more information on biceps tendinopathy conditions, or to book an appointment please call"
+      },
+      "linkheading": "",
+      "links": []
     },
     {
       "herotext": "buttock",
@@ -3344,10 +3442,10 @@
       },
       "imginfo0": {
         "alt": "",
-        "addClass": "object-cover object-right-bottom h-full w-full",
+        "addClass": "",
         "width": "",
         "height": "",
-        "src": "https://res.cloudinary.com/dpaazjo3z/image/upload/f_auto,q_auto/v1/asset/wrist/carpal-tunnel-syndrome"
+        "src": "https://res.cloudinary.com/dpaazjo3z/image/upload/f_auto,q_auto/v1/asset/wrist/carpal-tunnel-syndrome-0"
       },
       "imginfo1": {
         "alt": "",
@@ -3358,9 +3456,6 @@
       },
       "blogbody": {
         "paras": [
-          {
-            "para": "Plantar fasciitis is the most common cause of pain in the sole of the foot, commonly located around the heel and arch of the foot. In fact, plantar fasciitis is a result of there being inflammation of a connective tissue band, known as the plantar fascia, which stretches from the heel to the toes."
-          },
           {
             "para": "Carpal tunnel syndrome affect the nerve (median nerve) that runs through the wrist into the hand. A compression or irritation of the nerve generally causes numbness, pins and needles, pain and burning sensation around the palm of the hand and fingers. In some cases the muscle (thenar eminence) that draws your thumb across towards you little finger can reduce in size. This condition commonly affects middle aged ladies, people who have had a previous wrist injury and those who have diabetes, thyroid conditions and late stage pregnancy. Physiotherapists are able to diagnose this condition and provide you treatment and strategies to manage the symptoms. If the symptoms are not improving physiotherapists will be able to refer on to the appropriate service for further treatment"
           }
